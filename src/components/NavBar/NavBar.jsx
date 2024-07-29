@@ -1,4 +1,3 @@
-import { Group, Image } from "@mantine/core";
 import classes from "./styles.module.css";
 
 function NavBar() {

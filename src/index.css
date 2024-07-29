@@ -1,6 +1,13 @@
-body {
+*,
+*::after,
+*::before {
   margin: 0;
-  background-color: rgba(252, 127, 32, 0.561);
+  padding: 0;
+}
+
+body {
+  background-image: url("./assets/tile_background (3).png");
+  margin: 0;
   display: flex;
   width: 100vw;
   place-items: center;
