@@ -1,14 +1,5 @@
 .navbar {
-  height: 62px;
   display: flex;
-  justify-content: flex-end;
-}
-
-.title {
-  font-size: 20px;
-  color: #fc8200;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-  font-style: italic;
-  font-weight: 900;
+  justify-content: flex-start;
+  padding: 0.5rem 0;
 }

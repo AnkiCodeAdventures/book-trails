@@ -1,13 +1,18 @@
+import { Text, useMantineTheme } from "@mantine/core";
 import classes from "./styles.module.css";
 
 function NavBar() {
+  const theme = useMantineTheme();
+
   return (
     <div className={classes.navbar}>
-      <h2 className={classes.title}>BOOK TRAIL</h2>
+      <Text size="xl" lh={"xs"} fw={600} style={{ color: "#f1e6d1" }}>
+        BOOK TRAIL
+      </Text>
       <svg
-        color="#fc8200"
+        color={theme.colors.lime[9]}
         xmlns="http://www.w3.org/2000/svg"
-        height="100%"
+        height="35px"
         viewBox="0 0 24 24"
         fill="none"
         stroke="currentColor"
