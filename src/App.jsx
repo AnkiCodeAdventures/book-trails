@@ -5,31 +5,37 @@ import AddNewBook from "./components/AddNewBook/AddNewBook";
 import NavBar from "./components/NavBar/NavBar";
 
 const theme = createTheme({
+  white: "#F5F5F5",
+  fontFamily: "sans-serif",
   fontSizes: {
     xs: rem(12),
     sm: rem(14),
     md: rem(16),
     lg: rem(18),
-    xl: rem(20),
+    xl: rem(24),
   },
+
   lineHeights: {
-    xs: "1.4",
+    xs: "1.3",
     sm: "1.45",
     md: "1.55", //md default value
-    lg: "1.6",
-    xl: "1.65",
+    lg: "1.65",
+    xl: "1.85",
   },
   headings: {
     //properties for all headings
-    fontFamily: "Roboto",
     fontWeight: "400",
     textWrap: "pretty",
-
     sizes: {
       h1: {
-        fontWeight: "100",
+        fontWeight: "400",
+        fontSize: rem(72),
+        lineHeight: "1.2",
+      },
+      h2: {
+        fontWeight: "400",
         fontSize: rem(36),
-        lineHeight: "1.4",
+        lineHeight: "1.65",
       },
     },
   },

@@ -3,20 +3,6 @@
   width: 50%;
 }
 
-.heading {
-  color: rgb(92, 63, 61);
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  font-size: 40px;
-  font-weight: 800;
-  line-height: 1.5;
-}
-
-.text {
-  color: rgb(188, 157, 149);
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-}
-
 .inputBoxContainer {
   padding: 1rem;
   min-width: 340px;

@@ -1,14 +1,16 @@
-import { Button, Card, Image, TextInput } from "@mantine/core";
+import { Button, Card, Image, Text, TextInput, Title } from "@mantine/core";
 import classes from "./styles.module.css";
 
 function AddNewBook() {
   return (
     <div>
-      <h1 className={classes.heading}>Favorite Books Repository</h1>
-      <p className={classes.text}>
-        Add your favorite books and see their beloved characters and much
-        more...
-      </p>
+      <Title order={1}>Favorite Books Repository</Title>
+
+      <Text size="lg">
+        Add your favorite books and explore the mystical land of literature with
+        hobbits, elves, wizards, dragons, gnomes, pixies and many more awaiting
+        you . . .
+      </Text>
       <Card
         shadow="sm"
         radius="md"
@@ -17,10 +19,7 @@ function AddNewBook() {
       >
         <Card.Section>
           <div className={classes.imageContainer}>
-            <Image
-              src="/src/assets/image_processing20210113-1839-3w0a2e.jpg"
-              alt="book image"
-            />
+            <Image src="/src/assets/book_image.jpg" alt="book image" />
           </div>
           <div className={classes.inputBoxContainer}>
             <TextInput
