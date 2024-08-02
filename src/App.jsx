@@ -6,6 +6,7 @@ import NavBar from "./components/NavBar/NavBar";
 
 const theme = createTheme({
   white: "#F5F5F5",
+  black: "#5b3e3c",
   fontFamily: "sans-serif",
   fontSizes: {
     xs: rem(12),
@@ -33,9 +34,9 @@ const theme = createTheme({
         lineHeight: "1.2",
       },
       h2: {
-        fontWeight: "400",
-        fontSize: rem(36),
-        lineHeight: "1.65",
+        fontWeight: "600",
+        fontSize: rem(53),
+        lineHeight: "1.2",
       },
     },
   },

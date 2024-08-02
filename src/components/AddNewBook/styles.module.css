@@ -1,4 +1,28 @@
-.card {
+.paper {
   background-color: rgb(248, 221, 203);
-  width: 50%;
+  width: 100%;
+}
+
+.searchBoxContainer {
+  display: flex;
+}
+
+.contentContainer {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.subContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 90%;
+  height: 70%;
+}
+
+.image {
+  width: 100%;
+  height: auto;
 }
