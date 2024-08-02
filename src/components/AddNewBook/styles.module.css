@@ -2,36 +2,3 @@
   background-color: rgb(248, 221, 203);
   width: 50%;
 }
-
-.inputBoxContainer {
-  padding: 1rem;
-  min-width: 340px;
-}
-
-.inputBox {
-  height: 60px;
-  width: 100%;
-  min-width: 315px;
-  border: none;
-}
-
-.button {
-  width: 120px;
-  height: 103%;
-  border-radius: 0 8px 8px 0;
-  background-color: rgb(252, 127, 32);
-}
-
-@media (max-width: 400px) {
-  .inputBoxContainer {
-    padding: 0.5rem;
-  }
-
-  .inputBox {
-    height: 40px;
-  }
-
-  .button {
-    width: 105px;
-  }
-}

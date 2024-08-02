@@ -1,5 +1,6 @@
-import { Button, Card, Image, Text, TextInput, Title } from "@mantine/core";
+import { Card, Image, Text, Title } from "@mantine/core";
 import classes from "./styles.module.css";
+import SearchButton from "../SearchButton/SearchButton";
 
 function AddNewBook() {
   return (
@@ -21,20 +22,10 @@ function AddNewBook() {
           <div className={classes.imageContainer}>
             <Image src="/src/assets/book_image.jpg" alt="book image" />
           </div>
-          <div className={classes.inputBoxContainer}>
-            <TextInput
-              placeholder="Add your favorite book here..."
-              variant="default"
-              radius="md"
-              classNames={{ input: classes.inputBox }}
-              rightSection={
-                <Button variant="filled" classNames={{ root: classes.button }}>
-                  Add Book
-                </Button>
-              }
-              rightSectionWidth={"fit-content"}
-            ></TextInput>
-          </div>
+          <SearchButton
+            placeholder="Add your favorite book here"
+            label="Add Book"
+          />
         </Card.Section>
       </Card>
     </div>
