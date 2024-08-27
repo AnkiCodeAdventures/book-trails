@@ -23,7 +23,6 @@ function SearchButton({ placeholder, label }) {
             variant="filled"
             classNames={{ root: classes.button }}
             onClick={() => {
-              console.log("button clicked");
               addNewBook(text);
             }}
           >
