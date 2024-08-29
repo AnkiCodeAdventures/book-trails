@@ -1,0 +1,8 @@
+.paper {
+  background-color: #d7d7d7;
+  border: solid 2px black;
+}
+.paper:hover {
+  background-color: peachpuff;
+  border-color: coral;
+}

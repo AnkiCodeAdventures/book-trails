@@ -1,10 +1,11 @@
 import "./App.css";
 import "@mantine/core/styles.css";
-import { createTheme, MantineProvider, rem } from "@mantine/core";
+import { createTheme, Flex, Grid, MantineProvider, rem } from "@mantine/core";
 import AddNewBook from "./components/AddNewBook/AddNewBook";
 import NavBar from "./components/NavBar/NavBar";
 import useBooks from "./hooks/useBooks";
 import { ToastContainer } from "react-toastify";
+import RenderBook from "./components/RenderBook/RenderBook";
 
 const theme = createTheme({
   white: "#F5F5F5",
@@ -59,7 +60,14 @@ function App() {
   return (
     <MantineProvider theme={theme}>
       <NavBar />
-      <AddNewBook books={books} addNewBook={addNewBook} />
+      <AddNewBook addNewBook={addNewBook} />
+      <div className="grid-container">
+        {books.map((book) => (
+          <div span={2} className="" key={book.id}>
+            <RenderBook book={book} />
+          </div>
+        ))}
+      </div>
       <ToastContainer />
     </MantineProvider>
   );

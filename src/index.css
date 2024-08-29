@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image: url("./assets/tile_background (3).png");
+  background-color: #f8ddcb;
   margin: 0;
   display: flex;
   width: 100vw;
