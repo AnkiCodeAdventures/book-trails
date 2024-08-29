@@ -1,10 +1,371 @@
 {
   "books": [
     {
-      "id": "c594",
-      "userName": "Ankita",
-      "bookName": "Harry Potter",
-      "userId": 1
+      "id": "d2d9",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "The Alchemist",
+      "first_sentence": [
+        "El muchacho se llamaba Santiago."
+      ],
+      "book_character": [
+        "Paulo Coelho",
+        "Daniel Sampere",
+        "Derek Ruiz",
+        "Sea Lion Books",
+        "HarperCollins"
+      ],
+      "book_place": [
+        "Spain",
+        "Saara Desert",
+        "Andalusia",
+        "Andalusia (Spain)"
+      ],
+      "book_author": [
+        "Paulo Coelho"
+      ],
+      "author_key": [
+        "OL66700A"
+      ],
+      "cover_edition_key": 48240,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/48240-L.jpg"
+    },
+    {
+      "id": "f621",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "Frankenstein or The Modern Prometheus",
+      "first_sentence": [
+        "You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings.",
+        "YOU WILL REJOICE to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings.",
+        "In the introduction to the 1831 edition of Frankenstein, Mary Shelley presents herself as \"the daughter of two persons of distinguished literary celebrity.\"",
+        "In Greek mythology, Promotheus was the Titan charged with giving abilities to the animals of the earth.",
+        "THE LOGBOOK OF CAPTAIN ROBERT WALTON FROM THE SHIP, THE ARCHANGEL.",
+        "\"July 24: Write my story.\""
+      ],
+      "book_character": [
+        "Mary Wollstonecraft Shelley (1797-1851)",
+        "Victor Frankenstein (Fictitious character)",
+        "Frankenstein's Monster (Fictitious character)"
+      ],
+      "book_place": [
+        "Geneva (Switzerland)",
+        "St. Petersburgh",
+        "Archangel",
+        "Lucerne",
+        "Switzerland",
+        "Geneva"
+      ],
+      "book_author": [
+        "Mary Shelley"
+      ],
+      "author_key": [
+        "OL25342A"
+      ],
+      "cover_edition_key": 12356249,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/12356249-L.jpg"
+    },
+    {
+      "id": "5021",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "Adventures of Huckleberry Finn",
+      "first_sentence": [
+        "You don't know about me without you have read a book by the name of The Adventures of Tom Sawyer; but that ain't no matter.",
+        "YOU DON'T know about me, without you have read a book by the name of \"The Adventures of Tom Sawyer,\" but that ain't no matter."
+      ],
+      "book_character": [
+        "Mark Twain (author)",
+        "Samuel Clemens (author)",
+        "Clemens, S.L. (author)",
+        "Mark Twain (pen name)",
+        "Huckleberry Finn (Fictitious character)",
+        "Huckleberry Finn",
+        "Tom Sawyer",
+        "Jim",
+        "Judge Thatcher",
+        "The Widow Douglas",
+        "Finn, Huckleberry (Fictitious character)",
+        "the king (fictitious character)",
+        "the duke (fictitious character)",
+        "Aunt Sally (fictitious character)",
+        "Aunt Polly (fictitious character)",
+        "Uncle Silas (fictitious character)",
+        "Mark Twain (1835-1910)"
+      ],
+      "book_place": [
+        "Mississippi River",
+        "Missouri",
+        "Arkansas"
+      ],
+      "book_author": [
+        "Mark Twain"
+      ],
+      "author_key": [
+        "OL18319A"
+      ],
+      "cover_edition_key": 8157718,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/8157718-L.jpg"
+    },
+    {
+      "id": "b190",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "Animal Farm",
+      "first_sentence": [
+        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
+        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes.",
+        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
+        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient..."
+      ],
+      "book_character": [
+        "George Orwell (1903-1950)"
+      ],
+      "book_place": [
+        "United Kingdom"
+      ],
+      "book_author": [
+        "George Orwell"
+      ],
+      "author_key": [
+        "OL118077A"
+      ],
+      "cover_edition_key": 11261770,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
+    },
+    {
+      "id": "7328",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "The Wonderful Wizard of Oz",
+      "first_sentence": [
+        "Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's wife.",
+        "Orothy lived in the midst of the  great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's wife.",
+        "DOROTHY lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's wife.",
+        "OROTHY lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's wife.",
+        "Dorotea habia perdido a sus padres siendo muy nina, y desde entonces habia vivido con sus tios Enrique y Emma, dos viejos granjeros que tenian una casa modesta en medio de las grandes praderas de Kansas y que no sonreian por nada del mundo.",
+        "Dorothy LIVED IN the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's wife."
+      ],
+      "book_character": [
+        "Dorothy Gale",
+        "Scarecrow (Fictitious character : Baum)",
+        "Dorothy Gale (Fictitious character)",
+        "Wizard of Oz (Fictitious character)",
+        "Tin Woodman (Fictitious character)",
+        "Cowardly Lion (Fictitious character)",
+        "Dorothy",
+        "Tin Man",
+        "Scarecrow",
+        "L. Frank Baum (1856-1919)"
+      ],
+      "book_place": [
+        "Oz",
+        "Kansas",
+        "United States",
+        "Oz (Imaginary place)",
+        "Etats-Unis",
+        "Mei guo"
+      ],
+      "book_author": [
+        "L. Frank Baum"
+      ],
+      "author_key": [
+        "OL9348793A"
+      ],
+      "cover_edition_key": 552443,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/552443-L.jpg"
+    },
+    {
+      "id": "2b78",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "The Lion, the Witch and the Wardrobe",
+      "first_sentence": [
+        "HABIA UNA VEZ CUATRO NINOS CUYOS nombres eran Pedro, Susana, Edmundo y Lucia.",
+        "ONCE THERE WERE FOUR CHILDREN whose names were Peter, Susan, Edmund and Lucy."
+      ],
+      "book_character": [
+        "Aslan",
+        "Lucy Pevensie",
+        "Susan Pevensie",
+        "Edmund Pevensie",
+        "Peter Pevensie",
+        "Jadis the White Witch",
+        "Mr. Beaver",
+        "Mrs. Beaver",
+        "Giant Rumblebuffin",
+        "Father Christmas",
+        "Maugrim",
+        "Mr. Tumnus",
+        "Digory Kirke",
+        "Richard Rahl",
+        "Aslan the Lion (Fictitious character)"
+      ],
+      "book_place": [
+        "England",
+        "Narnia",
+        "Narnia (Imaginary place)",
+        "Narnia  (Imaginary place)s",
+        "Narnia (Lugar imaginario)",
+        "London",
+        "Cair Paravel",
+        "Stone Table"
+      ],
+      "book_author": [
+        "C.S. Lewis"
+      ],
+      "author_key": [
+        "OL31574A"
+      ],
+      "cover_edition_key": 8441376,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/8441376-L.jpg"
+    },
+    {
+      "id": "2ad0",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "Thinner",
+      "first_sentence": [
+        "\"Thinner,\" the old Gypsy man with the rotting nose whispers to William Halleck as Halleck and his wife, Heidi, come out of the court-house."
+      ],
+      "book_character": [
+        "Bob",
+        "Bobby",
+        "Jillian",
+        "Marcy",
+        "Timmy",
+        "Lars Arncaster",
+        "Ron Baker",
+        "Mrs. Bean",
+        "Judy Blume",
+        "Hilmer Boynton",
+        "Mrs. Callaghee",
+        "Allen Chalker",
+        "Richard Crosskill",
+        "Georgina Deever",
+        "David Duganfield",
+        "Lonnie Enders",
+        "Mr. Fander",
+        "Rand Foxworth",
+        "Richard Ginelli",
+        "Heidi Halleck",
+        "Linda Joan Halleck",
+        "William J. Halleck",
+        "Trey Heilig",
+        "Duncan Hopley",
+        "Michael Houston",
+        "Jenny Houston",
+        "Grand Lawlor",
+        "Angelina Lemke",
+        "Samuel Lemke",
+        "Susanna Lemke",
+        "Taduz Lemke",
+        "Mrs. Marley",
+        "Tommy McGhee",
+        "Zachary Merchant",
+        "Miss Nearing",
+        "John Parker",
+        "Mr. Parsons",
+        "Kirk Penschley",
+        "Glenn Petrie",
+        "Frank Quigley",
+        "Tom Rangely",
+        "Don Rickles",
+        "Jim Roberts",
+        "Mr. Rodgers",
+        "Cary Rossington",
+        "Leda Rossington",
+        "Dorothy Sayers",
+        "Rhoda Simonson",
+        "Frank Spurton",
+        "Maura Starbird",
+        "Yard Stevens",
+        "Ellis Stoner",
+        "John Tree",
+        "Dr. Yount"
+      ],
+      "book_place": [
+        "États-Unis",
+        "Connecticut",
+        "New York City",
+        "Fairview",
+        "Maine",
+        "Milford"
+      ],
+      "book_author": [
+        "Stephen King"
+      ],
+      "author_key": [
+        "OL19981A"
+      ],
+      "cover_edition_key": 8274288,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/8274288-L.jpg"
+    },
+    {
+      "id": "73fd",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "A Christmas Carol",
+      "first_sentence": [
+        "Marley was dead, to begin with.",
+        "MARLEY was dead: to begin with.",
+        "It was about twenty years after I first started Pickwick Papers before I could honestly claim to have finished it.",
+        "MARLEY WAS DEAD: TO BEGIN WITH.",
+        "MARLEY WAS DEAD, to begin with.",
+        "Para empezar, Marley estaba muerto.",
+        "Marley was dead: to begin with."
+      ],
+      "book_character": [
+        "Charles Dickens (1812-1870)",
+        "Hesba Stretton (1832-1911)",
+        "Ebenezer Scrooge",
+        "Gustave (1832-1883) Doré"
+      ],
+      "book_place": [
+        "England",
+        "Great Britain",
+        "Inglaterra",
+        "London (England)",
+        "London",
+        "United States",
+        "London (England),",
+        "Angleterre"
+      ],
+      "book_author": [
+        "Charles Dickens"
+      ],
+      "author_key": [
+        "OL24638A"
+      ],
+      "cover_edition_key": 13299222,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/13299222-L.jpg"
+    },
+    {
+      "id": "7fc9",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "The Old Man and the Sea",
+      "first_sentence": [
+        "He was an old man who fished alone in a skiff in the Gulf Stream and he had gone eighty-four days now without taking a fish.",
+        "Érase un viejo que solia ir de pesca solo en su bote en el Gulf Stream, y desde hace ya ochenta y cuatro dias no pescaba nada."
+      ],
+      "book_character": [
+        "Ernest Hemingway (1899-1961)"
+      ],
+      "book_place": [
+        "Cuba",
+        "Gulf Stream",
+        "Straits of Florida",
+        "Swahili"
+      ],
+      "book_author": [
+        "Ernest Hemingway"
+      ],
+      "author_key": [
+        "OL13640A"
+      ],
+      "cover_edition_key": 463307,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/463307-L.jpg"
     }
   ]
 }

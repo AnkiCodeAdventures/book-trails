@@ -3,6 +3,8 @@ import "@mantine/core/styles.css";
 import { createTheme, MantineProvider, rem } from "@mantine/core";
 import AddNewBook from "./components/AddNewBook/AddNewBook";
 import NavBar from "./components/NavBar/NavBar";
+import useBooks from "./hooks/useBooks";
+import { ToastContainer } from "react-toastify";
 
 const theme = createTheme({
   white: "#F5F5F5",
@@ -53,10 +55,12 @@ const theme = createTheme({
 });
 
 function App() {
+  const { books, addNewBook } = useBooks();
   return (
     <MantineProvider theme={theme}>
       <NavBar />
-      <AddNewBook />
+      <AddNewBook books={books} addNewBook={addNewBook} />
+      <ToastContainer />
     </MantineProvider>
   );
 }

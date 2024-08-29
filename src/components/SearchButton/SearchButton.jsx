@@ -1,11 +1,9 @@
 import { Button, TextInput } from "@mantine/core";
 import classes from "./styles.module.css";
 import { useState } from "react";
-import useBooks from "../../hooks/useBooks";
 
-function SearchButton({ placeholder, label }) {
+function SearchButton({ placeholder, label, addNewBook }) {
   const [text, setText] = useState("");
-  const { addNewBook } = useBooks();
 
   return (
     <div className={classes.inputBoxContainer}>
@@ -22,8 +20,8 @@ function SearchButton({ placeholder, label }) {
           <Button
             variant="filled"
             classNames={{ root: classes.button }}
-            onClick={() => {
-              addNewBook(text);
+            onClick={async () => {
+              await addNewBook(text);
             }}
           >
             {label}
