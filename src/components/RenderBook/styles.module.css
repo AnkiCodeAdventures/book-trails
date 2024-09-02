@@ -1,8 +1,14 @@
 .paper {
-  background-color: #d7d7d7;
-  border: solid 2px black;
+  background-color: peachpuff;
+  border: solid 1px coral;
 }
 .paper:hover {
-  background-color: peachpuff;
-  border-color: coral;
+  background-color: #f1eded;
+  border: solid 1px #585858;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
 }

@@ -9,7 +9,6 @@ function useBooks() {
   useEffect(() => {
     fetchAllBooks();
   }, []);
-  console.log(books);
 
   async function addNewBook(text) {
     const response = await fetch(
