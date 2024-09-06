@@ -5,8 +5,8 @@ import AddNewBook from "./components/AddNewBook/AddNewBook";
 import NavBar from "./components/NavBar/NavBar";
 import useBooks from "./hooks/useBooks";
 import { ToastContainer } from "react-toastify";
-import RenderBook from "./components/RenderBook/RenderBook";
 import { ModalsProvider } from "@mantine/modals";
+import RenderAllBooks from "./components/RenderAllBooks/RenderAllBooks";
 
 const theme = createTheme({
   white: "#F5F5F5",
@@ -67,13 +67,7 @@ function App() {
       <ModalsProvider>
         <NavBar />
         <AddNewBook addNewBook={addNewBook} />
-        <div className="grid-container">
-          {books.map((book) => (
-            <div span={2} className="" key={book.id}>
-              <RenderBook book={book} />
-            </div>
-          ))}
-        </div>
+        <RenderAllBooks books={books} />
         <ToastContainer />
       </ModalsProvider>
     </MantineProvider>
