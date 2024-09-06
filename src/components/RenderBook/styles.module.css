@@ -1,12 +1,25 @@
 .paper {
   background-color: peachpuff;
   border: solid 1px coral;
+  width: 200px;
+  padding: 5px 10px 0 10px;
 }
 .paper:hover {
   background-color: #f1eded;
   border: solid 1px #585858;
 }
 
+.cover {
+  object-fit: contain;
+  height: 280px;
+  max-width: auto;
+}
+
+.caption {
+  min-height: 100px;
+  align-content: center;
+  margin: auto 0;
+}
 .list {
   display: flex;
   flex-direction: column;

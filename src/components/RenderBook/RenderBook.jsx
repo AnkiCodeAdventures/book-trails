@@ -8,8 +8,14 @@ function RenderBook({ book }) {
   return (
     <div>
       <Paper className={classes.paper} onClick={open}>
-        <Image src={book.cover_image_url} alt="cover-image" />
-        <Text>{`${book.book_name} by ${book.book_author}`}</Text>
+        <Image
+          src={book.cover_image_url}
+          alt="cover-image"
+          className={classes.cover}
+        />
+        <Text
+          className={classes.caption}
+        >{`${book.book_name} by ${book.book_author}`}</Text>
       </Paper>
       <Modal
         opened={opened}

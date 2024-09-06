@@ -4833,6 +4833,109 @@
       ],
       "cover_edition_key": 14319003,
       "cover_image_url": "https://covers.openlibrary.org/b/ID/14319003-L.jpg"
+    },
+    {
+      "id": "734a",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "The Wonderful Wizard of Oz",
+      "first_sentence": [
+        "Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's wife.",
+        "Orothy lived in the midst of the  great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's wife.",
+        "DOROTHY lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's wife.",
+        "OROTHY lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's wife.",
+        "Dorotea habia perdido a sus padres siendo muy nina, y desde entonces habia vivido con sus tios Enrique y Emma, dos viejos granjeros que tenian una casa modesta en medio de las grandes praderas de Kansas y que no sonreian por nada del mundo.",
+        "Dorothy LIVED IN the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's wife."
+      ],
+      "book_character": [
+        "Dorothy Gale",
+        "Scarecrow (Fictitious character : Baum)",
+        "Dorothy Gale (Fictitious character)",
+        "Wizard of Oz (Fictitious character)",
+        "Tin Woodman (Fictitious character)",
+        "Cowardly Lion (Fictitious character)",
+        "Dorothy",
+        "Tin Man",
+        "Scarecrow",
+        "L. Frank Baum (1856-1919)"
+      ],
+      "book_place": [
+        "Oz",
+        "Kansas",
+        "United States",
+        "Oz (Imaginary place)",
+        "Etats-Unis",
+        "Mei guo"
+      ],
+      "book_author": [
+        "L. Frank Baum"
+      ],
+      "author_key": [
+        "OL9348793A"
+      ],
+      "cover_edition_key": 552443,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/552443-L.jpg"
+    },
+    {
+      "id": "0c5d",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "The Hobbit",
+      "first_sentence": [
+        "This is a story of long ago.",
+        "Au fond d’un trou vivait un hobbit.",
+        "In einer Höhle in der Erde, da lebte ein Hobbit.",
+        "Numa toca no chão vivia um hobbit.",
+        "Dans un trou vivait un hobbit.",
+        "I et hull i bakken bodde det en hobbit.",
+        "In a hole in the ground there lived a hobbit.",
+        "In a hole in the ground there lived a hobbit. Not a nasty diry wet hole, filled with ends of worms and an oozy smell..."
+      ],
+      "book_character": [
+        "Bilbo Baggins",
+        "Gandalf",
+        "Thorin Oakenshield",
+        "Fili",
+        "Kili",
+        "Balin",
+        "Dwalin",
+        "Oin",
+        "Gloin",
+        "Dori",
+        "Nori",
+        "Ori",
+        "Bifur",
+        "Bofur",
+        "Bombur",
+        "Lake-men",
+        "Smaug",
+        "Wargs",
+        "Wood-elves",
+        "Beorn",
+        "Bard the Bowman",
+        "Elrond",
+        "The Elvenking",
+        "Gollum",
+        "J. R. R. Tolkien (1892-1973)"
+      ],
+      "book_place": [
+        "Middle-earth",
+        "Lonely Mountain",
+        "Lake-town",
+        "Rivendell",
+        "Iron Hills",
+        "Misty Mountains",
+        "Mirkwood",
+        "the Shire"
+      ],
+      "book_author": [
+        "J.R.R. Tolkien"
+      ],
+      "author_key": [
+        "OL26320A"
+      ],
+      "cover_edition_key": 14627509,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/14627509-L.jpg"
     }
   ]
 }
