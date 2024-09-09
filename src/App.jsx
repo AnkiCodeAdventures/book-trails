@@ -16,12 +16,12 @@ const theme = createTheme({
     xs: rem(12),
     sm: rem(14),
     md: rem(16),
-    lg: rem(18),
+    lg: rem(21),
     xl: rem(24),
   },
 
   lineHeights: {
-    xs: "1.3",
+    xs: "1.5",
     sm: "1.45",
     md: "1.55",
     lg: "1.65",

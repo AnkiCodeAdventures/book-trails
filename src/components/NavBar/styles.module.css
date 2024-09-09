@@ -4,3 +4,17 @@
   padding: 0.5rem 0;
   margin: 1rem;
 }
+
+.logo {
+  height: 37px;
+}
+
+@media (max-width: 500px) {
+  .logoText {
+    font-size: 21px;
+  }
+
+  .logo {
+    height: 32px;
+  }
+}
