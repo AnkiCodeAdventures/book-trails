@@ -27,6 +27,7 @@ const theme = createTheme({
     lg: "1.65",
     xl: "1.85",
   },
+
   headings: {
     fontFamily: "Inter, sans-serif",
     fontWeight: "400",
