@@ -6,11 +6,11 @@ function NavBar() {
 
   return (
     <div className={classes.navbar}>
-      <Text size="xl" lh={"xs"} fw={600} style={{ color: "#f1e6d1" }}>
+      <Text size="xl" lh={"xs"} fw={600} c={theme.colors.orange[6]}>
         BOOK TRAIL
       </Text>
       <svg
-        color={theme.colors.lime[9]}
+        color={theme.colors.orange[6]}
         xmlns="http://www.w3.org/2000/svg"
         height="35px"
         viewBox="0 0 24 24"
