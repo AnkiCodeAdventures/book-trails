@@ -1,7 +1,7 @@
 .paper {
   background-color: peachpuff;
   border: solid 1px coral;
-  width: 200px;
+  width: 196px;
   padding: 8px 8px 0 8px;
 }
 .paper:hover {
@@ -11,17 +11,52 @@
 
 .cover {
   object-fit: cover;
-  height: 265px;
-  max-width: auto;
+  min-height: 265px;
 }
 
 .caption {
   min-height: 100px;
   align-content: center;
   margin: auto 0;
+  font-size: 14px;
 }
 .list {
   display: flex;
   flex-direction: column;
   text-align: left;
+}
+
+@media (max-width: 944px) {
+  .paper {
+    width: 166px;
+    padding: 8px;
+  }
+  .cover {
+    object-fit: cover;
+    min-height: 222px;
+  }
+  .caption {
+    display: none;
+  }
+}
+
+@media (max-width: 824px) {
+  .paper {
+    width: 150px;
+  }
+  .cover {
+    object-fit: cover;
+    min-height: 198px;
+  }
+}
+
+@media (max-width: 760px) {
+  .paper {
+    width: 132px;
+    padding: 6px;
+  }
+  .cover {
+    object-fit: cover;
+    min-height: 172px;
+  }
 }
