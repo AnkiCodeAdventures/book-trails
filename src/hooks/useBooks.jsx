@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { API_ROUTES } from "../utils/constants";
 import { useEffect } from "react";
-import { toast } from "react-toastify";
 
 function useBooks() {
   const [books, setBooks] = useState([]);
@@ -20,9 +19,9 @@ function useBooks() {
     const json = await response.json();
     const book_data = json.docs.length > 0 ? json.docs[0] : null;
     if (!book_data) {
-      toast.warning("No book found, try again");
-      return;
+      return Promise.reject("Book not found");
     }
+
     const cover_edition_key = book_data.cover_i;
 
     const book = {
