@@ -12,8 +12,26 @@
 
 .button {
   width: 120px;
-  height: 103%;
+  height: 100%;
+  outline: var(--mantine-color-orange-6) 1px solid;
   border-radius: 0 8px 8px 0;
+  /* styles for disabling the button */
+  &:disabled,
+  &[data-disabled] {
+    border-color: var(--mantine-color-orange-3);
+    background-color: var(--mantine-color-orange-3);
+    outline: var(--mantine-color-orange-3) 1px solid;
+  }
+}
+
+.button:hover {
+  border-color: var(--mantine-color-orange-7);
+  /* styles for disabling the button */
+  &:disabled,
+  &[data-disabled] {
+    border-color: var(--mantine-color-orange-3);
+    background-color: var(--mantine-color-orange-3);
+  }
 }
 
 @media (max-width: 400px) {

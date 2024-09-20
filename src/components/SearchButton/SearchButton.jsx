@@ -5,16 +5,22 @@ import { toast } from "react-toastify";
 
 function SearchButton({ placeholder, label, addNewBook }) {
   const [text, setText] = useState("");
+  const [isPending, setIsPending] = useState(false);
 
   function handleAddNewBook() {
+    setIsPending(true);
     toast.promise(
-      () => {
-        return addNewBook(text);
+      async () => {
+        try {
+          return await addNewBook(text);
+        } finally {
+          setIsPending(false);
+        }
       },
       {
-        pending: "thamba thamba",
-        success: "yohooo",
-        error: "No book found, try again",
+        pending: "Adding your book...",
+        success: "Book added successfully!",
+        error: "Book not found in our collection. Please try another title.",
       }
     );
   }
@@ -35,6 +41,7 @@ function SearchButton({ placeholder, label, addNewBook }) {
             variant="filled"
             classNames={{ root: classes.button }}
             onClick={handleAddNewBook}
+            disabled={isPending ? true : false}
           >
             {label}
           </Button>
