@@ -1,12 +1,16 @@
 .paper {
   background-color: peachpuff;
-  border: solid 1px coral;
+  border: solid 1px var(--mantine-color-orange-5);
   width: 196px;
   padding: 8px 8px 0 8px;
+  position: relative;
 }
 .paper:hover {
-  background-color: #f1eded;
-  border: solid 1px #585858;
+  background-color: var(--mantine-color-orange-6);
+  border: solid 1px var(--mantine-color-orange-8);
+  .delete {
+    color: var(--mantine-color-white);
+  }
 }
 
 .cover {
@@ -24,6 +28,25 @@
   display: flex;
   flex-direction: column;
   text-align: left;
+}
+
+.delete {
+  width: 20px;
+  height: 20px;
+  color: var(--mantine-color-orange-5);
+}
+
+.deleteButton {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  right: 6px;
+  bottom: 6px;
+}
+
+.delete:hover {
+  width: 25px;
+  height: 25px;
 }
 
 @media (max-width: 944px) {

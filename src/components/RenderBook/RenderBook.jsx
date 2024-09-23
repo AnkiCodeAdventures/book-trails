@@ -1,6 +1,7 @@
-import { Image, Modal, Paper, Tabs, Text } from "@mantine/core";
+import { ActionIcon, Image, Modal, Paper, Tabs, Text } from "@mantine/core";
 import classes from "./styles.module.css";
 import { useDisclosure } from "@mantine/hooks";
+import { IconTrashFilled } from "@tabler/icons-react";
 
 function RenderBook({ book }) {
   const [opened, { open, close }] = useDisclosure(false);
@@ -16,6 +17,13 @@ function RenderBook({ book }) {
         <Text
           className={classes.caption}
         >{`${book.book_name} by ${book.book_author}`}</Text>
+        <ActionIcon
+          variant="transparent"
+          aria-label="delete-action"
+          className={classes.deleteButton}
+        >
+          <IconTrashFilled className={classes.delete}></IconTrashFilled>
+        </ActionIcon>
       </Paper>
       <Modal
         opened={opened}
