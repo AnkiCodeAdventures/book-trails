@@ -26,6 +26,7 @@ function useBooks() {
 
     const book = {
       user_id: 1,
+
       user_name: "Ankita",
       book_name: book_data.title,
       first_sentence: book_data.first_sentence,
@@ -57,7 +58,13 @@ function useBooks() {
     setBooks(json);
   }
 
-  return { addNewBook, fetchAllBooks, books };
+  async function deleteBook(bookId) {
+    await fetch(`${API_ROUTES.BOOKS}/${bookId}`, {
+      method: "DELETE",
+    });
+  }
+
+  return { addNewBook, fetchAllBooks, books, deleteBook };
 }
 
 export default useBooks;

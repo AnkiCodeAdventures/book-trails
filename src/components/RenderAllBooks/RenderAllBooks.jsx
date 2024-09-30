@@ -2,7 +2,7 @@ import { Flex } from "@mantine/core";
 import RenderBook from "../RenderBook/RenderBook";
 import classes from "./styles.module.css";
 
-function RenderAllBooks({ books }) {
+function RenderAllBooks({ books, deleteBook, fetchAllBooks }) {
   return (
     <Flex
       wrap={"wrap"}
@@ -12,7 +12,11 @@ function RenderAllBooks({ books }) {
     >
       {books.map((book) => (
         <div key={book.id}>
-          <RenderBook book={book} />
+          <RenderBook
+            book={book}
+            deleteBook={deleteBook}
+            fetchAllBooks={fetchAllBooks}
+          />
         </div>
       ))}
     </Flex>

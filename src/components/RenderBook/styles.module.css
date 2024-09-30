@@ -4,6 +4,7 @@
   width: 196px;
   padding: 8px 8px 0 8px;
   position: relative;
+  cursor: pointer;
 }
 .paper:hover {
   background-color: var(--mantine-color-orange-6);
@@ -47,6 +48,7 @@
 .delete:hover {
   width: 25px;
   height: 25px;
+  transition: all 0.1s ease-in;
 }
 
 @media (max-width: 944px) {

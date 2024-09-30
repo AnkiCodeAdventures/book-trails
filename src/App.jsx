@@ -62,13 +62,17 @@ const theme = createTheme({
 });
 
 function App() {
-  const { books, addNewBook } = useBooks();
+  const { books, addNewBook, deleteBook, fetchAllBooks } = useBooks();
   return (
     <MantineProvider theme={theme}>
       <ModalsProvider>
         <NavBar />
         <AddNewBook addNewBook={addNewBook} />
-        <RenderAllBooks books={books} />
+        <RenderAllBooks
+          books={books}
+          deleteBook={deleteBook}
+          fetchAllBooks={fetchAllBooks}
+        />
         <ToastContainer />
       </ModalsProvider>
     </MantineProvider>

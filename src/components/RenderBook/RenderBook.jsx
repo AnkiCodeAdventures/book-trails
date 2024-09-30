@@ -2,9 +2,11 @@ import { ActionIcon, Image, Modal, Paper, Tabs, Text } from "@mantine/core";
 import classes from "./styles.module.css";
 import { useDisclosure } from "@mantine/hooks";
 import { IconTrashFilled } from "@tabler/icons-react";
+import { useState } from "react";
 
-function RenderBook({ book }) {
+function RenderBook({ book, deleteBook, fetchAllBooks }) {
   const [opened, { open, close }] = useDisclosure(false);
+  const [isLoading, setIsLoading] = useState(false);
 
   return (
     <div>
@@ -21,6 +23,14 @@ function RenderBook({ book }) {
           variant="transparent"
           aria-label="delete-action"
           className={classes.deleteButton}
+          disabled={isLoading ? true : null}
+          onClick={async (event) => {
+            event.stopPropagation();
+            setIsLoading(true);
+            await deleteBook(book.id);
+            await fetchAllBooks();
+            setIsLoading(false);
+          }}
         >
           <IconTrashFilled className={classes.delete}></IconTrashFilled>
         </ActionIcon>
