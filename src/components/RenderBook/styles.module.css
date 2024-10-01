@@ -51,6 +51,13 @@
   transition: all 0.1s ease-in;
 }
 
+.deleteButton {
+  &:disabled,
+  &[data-disabled] {
+    background-color: transparent;
+  }
+}
+
 @media (max-width: 944px) {
   .paper {
     width: 166px;

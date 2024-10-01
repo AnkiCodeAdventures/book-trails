@@ -3,10 +3,28 @@ import classes from "./styles.module.css";
 import { useDisclosure } from "@mantine/hooks";
 import { IconTrashFilled } from "@tabler/icons-react";
 import { useState } from "react";
+import { toast } from "react-toastify";
 
 function RenderBook({ book, deleteBook, fetchAllBooks }) {
   const [opened, { open, close }] = useDisclosure(false);
   const [isLoading, setIsLoading] = useState(false);
+
+  async function handleDelete(event) {
+    event.stopPropagation();
+    setIsLoading(true);
+    toast.promise(
+      async () => {
+        await deleteBook(book.id);
+        await fetchAllBooks();
+        setIsLoading(false);
+      },
+      {
+        pending: "Deleting book...",
+        success: "Book deleted successfully 👌",
+        error: "Book could not be deleted, try again",
+      }
+    );
+  }
 
   return (
     <div>
@@ -25,12 +43,8 @@ function RenderBook({ book, deleteBook, fetchAllBooks }) {
           aria-label="delete-action"
           className={classes.deleteButton}
           disabled={isLoading ? true : null}
-          onClick={async (event) => {
-            event.stopPropagation();
-            setIsLoading(true);
-            await deleteBook(book.id);
-            await fetchAllBooks();
-            setIsLoading(false);
+          onClick={(event) => {
+            handleDelete(event);
           }}
         >
           <IconTrashFilled className={classes.delete}></IconTrashFilled>
