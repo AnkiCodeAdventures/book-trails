@@ -17,183 +17,6 @@
       "cover_image_url": "https://covers.openlibrary.org/b/ID/6658746-L.jpg"
     },
     {
-      "id": "6223",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Filmi Alif Laila",
-      "book_character": [],
-      "book_place": [
-        "Pakistan",
-        "India"
-      ],
-      "book_author": [
-        "Ali Sufyan Afaqi"
-      ],
-      "author_key": [
-        "OL5924651A"
-      ],
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/undefined-L.jpg"
-    },
-    {
-      "id": "e9be",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Pride and Prejudice",
-      "first_sentence": [
-        "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
-        "IT IS A TRUTH universally acknowledged that a single man in possession of a good fortune must be in want of a wife.",
-        "IT is a truth universally acknowledge, that a single man in possession of a good fortune, must be in want of a wife.",
-        "It is a truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife.",
-        "IT IS A TRUTH universally acknowledge, that a single man in possession of a good fortune must be in want of a wife.",
-        "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
-        "IT is a truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife.",
-        "IT is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
-        "IT IS A truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife."
-      ],
-      "book_character": [
-        "Elizabeth Bennet",
-        "Fitzwilliam Darcy",
-        "Charlotte Lucas",
-        "George Wickham",
-        "Mr. Bennet",
-        "Mrs. Bennet",
-        "Jane Bennet",
-        "Mary Bennet",
-        "Catherine Bennet",
-        "Lydia Bennet",
-        "Charles Bingley",
-        "Caroline Bingley",
-        "William Collins",
-        "Catherine de Bourgh"
-      ],
-      "book_place": [
-        "England",
-        "Brighton",
-        "Derbyshire",
-        "Hertfordshire",
-        "Meryton",
-        "Longbourn",
-        "Netherfield",
-        "Pemberley",
-        "Great Britain",
-        "Ying guo"
-      ],
-      "book_author": [
-        "Jane Austen"
-      ],
-      "author_key": [
-        "OL21594A"
-      ],
-      "cover_edition_key": 14348537,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/14348537-L.jpg"
-    },
-    {
-      "id": "222e",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Pride and Prejudice",
-      "first_sentence": [
-        "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
-        "IT IS A TRUTH universally acknowledged that a single man in possession of a good fortune must be in want of a wife.",
-        "IT is a truth universally acknowledge, that a single man in possession of a good fortune, must be in want of a wife.",
-        "It is a truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife.",
-        "IT IS A TRUTH universally acknowledge, that a single man in possession of a good fortune must be in want of a wife.",
-        "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
-        "IT is a truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife.",
-        "IT is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
-        "IT IS A truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife."
-      ],
-      "book_character": [
-        "Elizabeth Bennet",
-        "Fitzwilliam Darcy",
-        "Charlotte Lucas",
-        "George Wickham",
-        "Mr. Bennet",
-        "Mrs. Bennet",
-        "Jane Bennet",
-        "Mary Bennet",
-        "Catherine Bennet",
-        "Lydia Bennet",
-        "Charles Bingley",
-        "Caroline Bingley",
-        "William Collins",
-        "Catherine de Bourgh"
-      ],
-      "book_place": [
-        "England",
-        "Brighton",
-        "Derbyshire",
-        "Hertfordshire",
-        "Meryton",
-        "Longbourn",
-        "Netherfield",
-        "Pemberley",
-        "Great Britain",
-        "Ying guo"
-      ],
-      "book_author": [
-        "Jane Austen"
-      ],
-      "author_key": [
-        "OL21594A"
-      ],
-      "cover_edition_key": 14348537,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/14348537-L.jpg"
-    },
-    {
-      "id": "9184",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Pride and Prejudice",
-      "first_sentence": [
-        "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
-        "IT IS A TRUTH universally acknowledged that a single man in possession of a good fortune must be in want of a wife.",
-        "IT is a truth universally acknowledge, that a single man in possession of a good fortune, must be in want of a wife.",
-        "It is a truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife.",
-        "IT IS A TRUTH universally acknowledge, that a single man in possession of a good fortune must be in want of a wife.",
-        "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
-        "IT is a truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife.",
-        "IT is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
-        "IT IS A truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife."
-      ],
-      "book_character": [
-        "Elizabeth Bennet",
-        "Fitzwilliam Darcy",
-        "Charlotte Lucas",
-        "George Wickham",
-        "Mr. Bennet",
-        "Mrs. Bennet",
-        "Jane Bennet",
-        "Mary Bennet",
-        "Catherine Bennet",
-        "Lydia Bennet",
-        "Charles Bingley",
-        "Caroline Bingley",
-        "William Collins",
-        "Catherine de Bourgh"
-      ],
-      "book_place": [
-        "England",
-        "Brighton",
-        "Derbyshire",
-        "Hertfordshire",
-        "Meryton",
-        "Longbourn",
-        "Netherfield",
-        "Pemberley",
-        "Great Britain",
-        "Ying guo"
-      ],
-      "book_author": [
-        "Jane Austen"
-      ],
-      "author_key": [
-        "OL21594A"
-      ],
-      "cover_edition_key": 14348537,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/14348537-L.jpg"
-    },
-    {
       "id": "1332",
       "user_id": 1,
       "user_name": "Ankita",
@@ -217,62 +40,6 @@
       ],
       "cover_edition_key": 188961,
       "cover_image_url": "https://covers.openlibrary.org/b/ID/188961-L.jpg"
-    },
-    {
-      "id": "440f",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Candide",
-      "first_sentence": [
-        "THERE lived in Westphalia, at the country seat of Baron Thunder-ten-tronckh, a young lad blessed by nature with the most agreeable manners.",
-        "Chapitre I.\r\n\r\nComment candide fut élevé dans un beau château, et comment il fut chassé d'icelui.\r\n\r\nIl y avait en Vestphalie, dans le château de M. le baron de Thunder-ten-tronckh, un jeune garçon à qui la nature avait donné les mums les plus douces. Sa physionomie annonçair son ime. Il avait le jugement assez droit, avec l'esprit le plus simple; c'est, je crois, pour cette raison qu'on le nommait Candide. Les anciens domestiques de la maison soupçonnaient qu'il était fils de la scur de monsieur le baron et d'un bon et honnête gentilhomme du voisinage, que cette demoiselle ne voulut jamais épouser parce qu'il n'avait pu prouver que soixante et one quartiers!, et que le reste de son arbre généalogique avait été perdu par l'injure du temps.",
-        "In Westphalia, in the castle of Baron Thunder-Ten-Tronckh, there lived a young boy whom nature had endowed with the sweetest disposition.",
-        "In the country of Westphalia, in the castle of the most noble Baron of Thunder-ten-tronckh, lived a youth whom Nature had endowed with a most sweet disposition.",
-        "In Westphalia, in Baron Thunder-den-tronckh's mansion, lived a young man born wonderfully mild and gentle."
-      ],
-      "book_character": [
-        "Lester G. Crocker",
-        "Voltaire (1694-1778)"
-      ],
-      "book_place": [
-        "Great Britain",
-        "France"
-      ],
-      "book_author": [
-        "Voltaire",
-        "William Fleming",
-        "Philip Littell",
-        "Jack Davenport"
-      ],
-      "author_key": [
-        "OL32293A",
-        "OL1109412A",
-        "OL9085747A",
-        "OL11002805A"
-      ],
-      "cover_edition_key": 12736044,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/12736044-L.jpg"
-    },
-    {
-      "id": "3b75",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "CindyWalt Disney's Cinderella",
-      "first_sentence": [
-        "I seen mi Del cookies."
-      ],
-      "book_character": [],
-      "book_place": [
-        "France"
-      ],
-      "book_author": [
-        "Walt Disney"
-      ],
-      "author_key": [
-        "OL714158A"
-      ],
-      "cover_edition_key": 2359452,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/2359452-L.jpg"
     },
     {
       "id": "c364",
@@ -332,106 +99,6 @@
       ],
       "cover_edition_key": 9255229,
       "cover_image_url": "https://covers.openlibrary.org/b/ID/9255229-L.jpg"
-    },
-    {
-      "id": "1aea",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "King Lear",
-      "first_sentence": [
-        "1.1 King Lear, intending to divide his power and kingdom among his three daughters, demands public professions of their love.",
-        "KENT I thought the king had more affected the Duke of Albany than Cornwall.",
-        "Kent. I thought the King had more affected the Duke of Albany than Cornwall.",
-        "Kent. I thought the King had more affected the Duke of Albany, then Cornwall",
-        "KENT: I thought the king favored the Duke of Albany over the Duke of Cornwall.",
-        "King Lear is widely regarded as Shakespeare's most intense, profound and powerful tragedy.",
-        "KENT I thought the King had more affected the Duke of Albany than Cornwall.",
-        "1. When reading verse, note the appropriate phrasing and intonation.",
-        "ONCE upon a time, probably in 1605, a man called William Shakespeare, using a quill pen, wrote a play about the legendary British King Lear and his three daughters."
-      ],
-      "book_character": [
-        "William Shakespeare (1564-1616)",
-        "Lear King of England (Legendary character)",
-        "John Wilders"
-      ],
-      "book_place": [
-        "England"
-      ],
-      "book_author": [
-        "William Shakespeare"
-      ],
-      "author_key": [
-        "OL9388A"
-      ],
-      "cover_edition_key": 7420452,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/7420452-L.jpg"
-    },
-    {
-      "id": "a957",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Golden Phoenix",
-      "book_character": [
-        "Canadian",
-        "French-Canadian",
-        "Minnesota",
-        "French"
-      ],
-      "book_place": [
-        "France",
-        "Canada"
-      ],
-      "book_author": [
-        "Marius Barbeau"
-      ],
-      "author_key": [
-        "OL115915A"
-      ],
-      "cover_edition_key": 9315307,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/9315307-L.jpg"
-    },
-    {
-      "id": "5e58",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Julius Caesar",
-      "first_sentence": [
-        "In the scene which dramatizes the central crisis of her fortunes, the heroine of Cymbeline apparently dies, and her brothers speak over her body perhaps the most exquisite lyric in the language, 'Fear no more the heat o'th' sun', whose serene beauty has brought consolation to many a real-life funeral.",
-        "FLAVIUS Hence! Home, you idle creatures, get you home!",
-        "Hence! home, you idle creatures, get you home: Is this a holiday?",
-        "Julius Caesar is a play about a political assassination.",
-        "William Shakespeare, or the \"Bard\" as people fondly call him, permeates almost all aspects of our society.",
-        "1.1 Enter Flavius, Marullus, and certain commoners, one a Carpenter, another a Cobbler, over the stage",
-        "1. When reading verse, note the appropriate phrasing and intonation.",
-        "FLAVIUS Hence! Home, you idle creatures, get you home.",
-        "FLAVIUS: Hence! home, you idle creatures, get you home.",
-        "There is an aura of unreality about the plays of Shakespeare, and students feel this, although they may not be able to express their reactions precisely.",
-        "Enter Flavius, Marullus, and certain, Commoners, including a Carpenter and a Cobbler, over the stage.",
-        "Enter Flauius, Murellus, and certaine Commoners ouer the Stage."
-      ],
-      "book_character": [
-        "C. Julius Caesar",
-        "Cléopâtre reine d'Égypte (m. 30 av. J.C)",
-        "Elizabeth I Queen of England (1533-1603)",
-        "Jules César (20 av. J.C.-4)",
-        "Julius Caesar",
-        "Julius, 100-44 B.C. Caesar",
-        "Marcus Junius Brutus (85?-42 B.C)",
-        "Richard Grant White (1821-1885,)",
-        "William Shakespeare (1564-1616)",
-        "Jean-Louis Roux (1923-)"
-      ],
-      "book_place": [
-        "Rome"
-      ],
-      "book_author": [
-        "William Shakespeare"
-      ],
-      "author_key": [
-        "OL9388A"
-      ],
-      "cover_edition_key": 7901303,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/7901303-L.jpg"
     },
     {
       "id": "4bce",
@@ -1212,38 +879,6 @@
       "cover_image_url": "https://covers.openlibrary.org/b/ID/296453-L.jpg"
     },
     {
-      "id": "4734",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Anne of Green Gables",
-      "first_sentence": [
-        "Mrs. Rachel Lynde lived just where the Avonlea main road dipped into a little hollow, ringed all around with trees and flowers.",
-        "Wo die von Erlen und Springkraut gesäumte Hauptstraße von Avonlea durch eine kleine Senke führt, stand das Haus von Mrs Rachel Lynde.",
-        "MRS. RACHEL LYNDE lived just where the Avonlea main road dipped down into a little hollow, fringed with alders and ladies' eardrops and traversed by a brook that had its source away back in the woods of the old Cuthbert place; it was reputed to be an intricate, headlong brook in its earlier course through those woods, with dark secrets of pool and cascade; but by the time it reached Lynde's Hollow it was a quiet, well-conducted little stream, for not even a brook could run past Mrs. Rachel Lynde's door without due regard for decency and decorum; it probably was conscious that Mrs. Rachel was sitting at her window, keeping a sharp eye on everything that passed, from brooks and children up, and that if she noticed anything odd or out of place she would never rest until she had ferreted out the whys and wherefores thereof.",
-        "MRS. RACHEL LYNDE lived just where the Avonlea main road dipped down into a little hollow, fringed with alders and ladies' eardrops and traversed by a brook that had its source away back in the woods of the old Cuthbert place; it was reputed to be an intricate, headlong brook in its earlier course through those woods, with dark secrets of pool and cascade; but by the time it reached Lynde's Hollow it was quiet, well-conducted little stream, for not even a brook could run past Mrs. Rachel Lynde's door without due regard for decency and decorum; it probably was conscious that Mrs. Rachel was sitting at her window, keeping a sharp eye on everything that passed, from brooks and children up, and that if she noticed anything odd or out of place she would never rest until she had ferreted out the whys and wherefores thereof.",
-        "Mrs. Rachel Lynde lived just where the Avonlea main road dipped down into a little hollow, fringed with alders and ladies' eardrops and traversed by a brook that had its source away back in the woods of the old Cuthbert place; it was reputed to be an intricate, headlong brook in its earlier course through those woods, with dark secrets of pool and cascade; but by the time it reached Lynde's Hollow it was a quiet, well-conducted little stream, for not even a brook could run past Mrs. Rachel Lynde's door without due regard for decency and decorum; it probably was conscious that Mrs. Rachel was sitting at her window,keeping a sharp eye on everything that passed, from brooks and children up, and that if she noticed anything odd or out of place she would never rest until she had ferreted out the whys and wherefores thereof."
-      ],
-      "book_character": [
-        "L. M. Montgomery (1874-1942)",
-        "Anne Shirley (Fictitious character)"
-      ],
-      "book_place": [
-        "Prince Edward Island",
-        "Canada",
-        "Jia na da",
-        "Jin dai",
-        "Xian dai"
-      ],
-      "book_author": [
-        "Lucy Maud Montgomery"
-      ],
-      "author_key": [
-        "OL39485A"
-      ],
-      "cover_edition_key": 14641084,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/14641084-L.jpg"
-    },
-    {
       "id": "be79",
       "user_id": 1,
       "user_name": "Ankita",
@@ -1263,76 +898,6 @@
       ],
       "cover_edition_key": 9153819,
       "cover_image_url": "https://covers.openlibrary.org/b/ID/9153819-L.jpg"
-    },
-    {
-      "id": "3760",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Frankenstein or The Modern Prometheus",
-      "first_sentence": [
-        "You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings.",
-        "YOU WILL REJOICE to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings.",
-        "In the introduction to the 1831 edition of Frankenstein, Mary Shelley presents herself as \"the daughter of two persons of distinguished literary celebrity.\"",
-        "In Greek mythology, Promotheus was the Titan charged with giving abilities to the animals of the earth.",
-        "THE LOGBOOK OF CAPTAIN ROBERT WALTON FROM THE SHIP, THE ARCHANGEL.",
-        "\"July 24: Write my story.\""
-      ],
-      "book_character": [
-        "Mary Wollstonecraft Shelley (1797-1851)",
-        "Victor Frankenstein (Fictitious character)",
-        "Frankenstein's Monster (Fictitious character)"
-      ],
-      "book_place": [
-        "Geneva (Switzerland)",
-        "St. Petersburgh",
-        "Archangel",
-        "Lucerne",
-        "Switzerland",
-        "Geneva"
-      ],
-      "book_author": [
-        "Mary Shelley"
-      ],
-      "author_key": [
-        "OL25342A"
-      ],
-      "cover_edition_key": 12356249,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/12356249-L.jpg"
-    },
-    {
-      "id": "d6a7",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Frankenstein or The Modern Prometheus",
-      "first_sentence": [
-        "You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings.",
-        "YOU WILL REJOICE to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings.",
-        "In the introduction to the 1831 edition of Frankenstein, Mary Shelley presents herself as \"the daughter of two persons of distinguished literary celebrity.\"",
-        "In Greek mythology, Promotheus was the Titan charged with giving abilities to the animals of the earth.",
-        "THE LOGBOOK OF CAPTAIN ROBERT WALTON FROM THE SHIP, THE ARCHANGEL.",
-        "\"July 24: Write my story.\""
-      ],
-      "book_character": [
-        "Mary Wollstonecraft Shelley (1797-1851)",
-        "Victor Frankenstein (Fictitious character)",
-        "Frankenstein's Monster (Fictitious character)"
-      ],
-      "book_place": [
-        "Geneva (Switzerland)",
-        "St. Petersburgh",
-        "Archangel",
-        "Lucerne",
-        "Switzerland",
-        "Geneva"
-      ],
-      "book_author": [
-        "Mary Shelley"
-      ],
-      "author_key": [
-        "OL25342A"
-      ],
-      "cover_edition_key": 12356249,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/12356249-L.jpg"
     },
     {
       "id": "8a0f",
@@ -1368,92 +933,6 @@
       ],
       "cover_edition_key": 12356249,
       "cover_image_url": "https://covers.openlibrary.org/b/ID/12356249-L.jpg"
-    },
-    {
-      "id": "0029",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Hamlet",
-      "first_sentence": [
-        "Enter Barnardo and Francisco, two sentinels.",
-        "The scene represents a platform before the castle of Elsinore, the royal seat of the Kings of Denmark.",
-        "Bernardo Who's there?",
-        "Darkness. Uneasy siIence.",
-        "[Enter two Sentinels first, Francisco, who paces up and down at his post; then Bernardo, who approaches him.]",
-        "William Shakespeare, or the \"Bard\" as people fondly call him, permeates almost all aspects of our society.",
-        "BARNARDO Who's there?",
-        "It is cold; and it is midnight.",
-        "This volume of William Shakespeare's The Tragedy of Hamlet, Prince of Denmark consists of two versions of the play.",
-        "Elsinore. A Platform before the Castle.",
-        "UP to the end of the First World War and for some time thereafter, Hamlet was generally regarded as the greatest of all Shakespeare's plays, the most exciting, absorbing, and profound drama ever written.",
-        "There is an aura of unreality about the plays of Shakespeare, and students feel this, although they may not be able to express their reactions precisely.",
-        "Barnardo. Who's there?"
-      ],
-      "book_character": [
-        "Claudius",
-        "Hamlet",
-        "Polonius",
-        "Horatio",
-        "Laertes",
-        "Voltimand",
-        "Cornelius",
-        "Rosencrantz",
-        "Guildenstern",
-        "Osric",
-        "Gentleman",
-        "Priest",
-        "Marcellus",
-        "Bernardo",
-        "Francisco",
-        "Reynaldo",
-        "Players",
-        "Two Clowns",
-        "Fortinbras",
-        "Captain",
-        "English Ambassadors",
-        "Gertrude",
-        "Ophelia",
-        "Lords",
-        "Ladies",
-        "Officers",
-        "Soldiers",
-        "Sailors",
-        "Messengers",
-        "Attendants",
-        "Ghost of Hamlet's father",
-        "William Shakespeare (1564-1616)",
-        "Hamlet (Legendary character)"
-      ],
-      "book_place": [
-        "Denmark",
-        "Norway",
-        "Great Britain",
-        "Russia"
-      ],
-      "book_author": [
-        "William Shakespeare"
-      ],
-      "author_key": [
-        "OL9388A"
-      ],
-      "cover_edition_key": 8281954,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/8281954-L.jpg"
-    },
-    {
-      "id": "d723",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Optice",
-      "book_character": [],
-      "book_place": [],
-      "book_author": [
-        "John Conduitt"
-      ],
-      "author_key": [
-        "OL5127922A"
-      ],
-      "cover_edition_key": 5868249,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/5868249-L.jpg"
     },
     {
       "id": "74ab",
@@ -1645,90 +1124,6 @@
       "cover_image_url": "https://covers.openlibrary.org/b/ID/12366237-L.jpg"
     },
     {
-      "id": "6cf7",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Navāgraha",
-      "book_character": [],
-      "book_place": [
-        "Kolkata",
-        "India"
-      ],
-      "book_author": [
-        "Kr̥shṇabihārī Miśra"
-      ],
-      "author_key": [
-        "OL6848393A"
-      ],
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/undefined-L.jpg"
-    },
-    {
-      "id": "012b",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Merchant of Venice",
-      "first_sentence": [
-        "1.1 Antonio, a Venetian merchant, has invested all his wealth in trading expeditions.",
-        "Antonio. In sooth I know not why I am so sad.",
-        "In sooth, I know not why I am so sad.",
-        "In sooth I know not why I am so sad.",
-        "The Merchant of Venice, like most of Shakespeare's comedies, is about love and marriage.",
-        "ANY approach to understanding Shakespeare's The Merchant of Venice inevitably includes a discussion of the vexed question of its alleged anti-Semitism."
-      ],
-      "book_character": [
-        "William Shakespeare (1564-1616)",
-        "Shylock (Fictitious character)"
-      ],
-      "book_place": [
-        "Venice (Italy)",
-        "Italy",
-        "Venice",
-        "Italia",
-        "Venecia"
-      ],
-      "book_author": [
-        "William Shakespeare"
-      ],
-      "author_key": [
-        "OL9388A"
-      ],
-      "cover_edition_key": 7182819,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/7182819-L.jpg"
-    },
-    {
-      "id": "cd72",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Merchant of Venice",
-      "first_sentence": [
-        "1.1 Antonio, a Venetian merchant, has invested all his wealth in trading expeditions.",
-        "Antonio. In sooth I know not why I am so sad.",
-        "In sooth, I know not why I am so sad.",
-        "In sooth I know not why I am so sad.",
-        "The Merchant of Venice, like most of Shakespeare's comedies, is about love and marriage.",
-        "ANY approach to understanding Shakespeare's The Merchant of Venice inevitably includes a discussion of the vexed question of its alleged anti-Semitism."
-      ],
-      "book_character": [
-        "William Shakespeare (1564-1616)",
-        "Shylock (Fictitious character)"
-      ],
-      "book_place": [
-        "Venice (Italy)",
-        "Italy",
-        "Venice",
-        "Italia",
-        "Venecia"
-      ],
-      "book_author": [
-        "William Shakespeare"
-      ],
-      "author_key": [
-        "OL9388A"
-      ],
-      "cover_edition_key": 7182819,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/7182819-L.jpg"
-    },
-    {
       "id": "58e1",
       "user_id": 1,
       "user_name": "Ankita",
@@ -1746,37 +1141,6 @@
       ],
       "cover_edition_key": 932,
       "cover_image_url": "https://covers.openlibrary.org/b/ID/932-L.jpg"
-    },
-    {
-      "id": "97de",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Of Mice and Men",
-      "first_sentence": [
-        "A few miles south of Soledad, the Salinas River drops in close to the hillside bank and runs deep and green.",
-        "John Ernst Steinbeck was born on February 27, 1902 in Salinas, California.",
-        "A Few miles south of Soledad, the Salinas River drops in close to the hillside bank and runs deep and green."
-      ],
-      "book_character": [
-        "George Milton",
-        "Lennie Small"
-      ],
-      "book_place": [
-        "California",
-        "Salinas River Valley",
-        "Salinas, Valle del Río (California)",
-        "Soledad CA",
-        "Salinas River Valley (Calif.)",
-        "Salinas, Vallée du (Calif.)"
-      ],
-      "book_author": [
-        "John Steinbeck"
-      ],
-      "author_key": [
-        "OL25788A"
-      ],
-      "cover_edition_key": 14319003,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/14319003-L.jpg"
     },
     {
       "id": "d115",
@@ -2021,130 +1385,6 @@
       ],
       "cover_edition_key": 2668686,
       "cover_image_url": "https://covers.openlibrary.org/b/ID/2668686-L.jpg"
-    },
-    {
-      "id": "d5ba",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Of Mice and Men",
-      "first_sentence": [
-        "A few miles south of Soledad, the Salinas River drops in close to the hillside bank and runs deep and green.",
-        "John Ernst Steinbeck was born on February 27, 1902 in Salinas, California.",
-        "A Few miles south of Soledad, the Salinas River drops in close to the hillside bank and runs deep and green."
-      ],
-      "book_character": [
-        "George Milton",
-        "Lennie Small"
-      ],
-      "book_place": [
-        "California",
-        "Salinas River Valley",
-        "Salinas, Valle del Río (California)",
-        "Soledad CA",
-        "Salinas River Valley (Calif.)",
-        "Salinas, Vallée du (Calif.)"
-      ],
-      "book_author": [
-        "John Steinbeck"
-      ],
-      "author_key": [
-        "OL25788A"
-      ],
-      "cover_edition_key": 14319003,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/14319003-L.jpg"
-    },
-    {
-      "id": "92a6",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Of Mice and Men",
-      "first_sentence": [
-        "A few miles south of Soledad, the Salinas River drops in close to the hillside bank and runs deep and green.",
-        "John Ernst Steinbeck was born on February 27, 1902 in Salinas, California.",
-        "A Few miles south of Soledad, the Salinas River drops in close to the hillside bank and runs deep and green."
-      ],
-      "book_character": [
-        "George Milton",
-        "Lennie Small"
-      ],
-      "book_place": [
-        "California",
-        "Salinas River Valley",
-        "Salinas, Valle del Río (California)",
-        "Soledad CA",
-        "Salinas River Valley (Calif.)",
-        "Salinas, Vallée du (Calif.)"
-      ],
-      "book_author": [
-        "John Steinbeck"
-      ],
-      "author_key": [
-        "OL25788A"
-      ],
-      "cover_edition_key": 14319003,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/14319003-L.jpg"
-    },
-    {
-      "id": "246d",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Of Mice and Men",
-      "first_sentence": [
-        "A few miles south of Soledad, the Salinas River drops in close to the hillside bank and runs deep and green.",
-        "John Ernst Steinbeck was born on February 27, 1902 in Salinas, California.",
-        "A Few miles south of Soledad, the Salinas River drops in close to the hillside bank and runs deep and green."
-      ],
-      "book_character": [
-        "George Milton",
-        "Lennie Small"
-      ],
-      "book_place": [
-        "California",
-        "Salinas River Valley",
-        "Salinas, Valle del Río (California)",
-        "Soledad CA",
-        "Salinas River Valley (Calif.)",
-        "Salinas, Vallée du (Calif.)"
-      ],
-      "book_author": [
-        "John Steinbeck"
-      ],
-      "author_key": [
-        "OL25788A"
-      ],
-      "cover_edition_key": 14319003,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/14319003-L.jpg"
-    },
-    {
-      "id": "c3ac",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Of Mice and Men",
-      "first_sentence": [
-        "A few miles south of Soledad, the Salinas River drops in close to the hillside bank and runs deep and green.",
-        "John Ernst Steinbeck was born on February 27, 1902 in Salinas, California.",
-        "A Few miles south of Soledad, the Salinas River drops in close to the hillside bank and runs deep and green."
-      ],
-      "book_character": [
-        "George Milton",
-        "Lennie Small"
-      ],
-      "book_place": [
-        "California",
-        "Salinas River Valley",
-        "Salinas, Valle del Río (California)",
-        "Soledad CA",
-        "Salinas River Valley (Calif.)",
-        "Salinas, Vallée du (Calif.)"
-      ],
-      "book_author": [
-        "John Steinbeck"
-      ],
-      "author_key": [
-        "OL25788A"
-      ],
-      "cover_edition_key": 14319003,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/14319003-L.jpg"
     },
     {
       "id": "734a",
@@ -3367,33 +2607,6 @@
       "cover_image_url": "https://covers.openlibrary.org/b/ID/9274740-L.jpg"
     },
     {
-      "id": "06d0",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Curious Incident of the Dog in the Night-Time",
-      "first_sentence": [
-        "It was 7 minutes after midnight."
-      ],
-      "book_character": [
-        "Christopher"
-      ],
-      "book_place": [
-        "Dogs",
-        "England",
-        "Swindon",
-        "Paris",
-        "UK"
-      ],
-      "book_author": [
-        "Mark Haddon"
-      ],
-      "author_key": [
-        "OL453119A"
-      ],
-      "cover_edition_key": 7890719,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/7890719-L.jpg"
-    },
-    {
       "id": "4258",
       "user_id": 1,
       "user_name": "Ankita",
@@ -3419,1219 +2632,6 @@
       ],
       "cover_edition_key": 7890719,
       "cover_image_url": "https://covers.openlibrary.org/b/ID/7890719-L.jpg"
-    },
-    {
-      "id": "15ff",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Fundamentals Of Electricity And Magnetism",
-      "book_character": [],
-      "book_place": [],
-      "book_author": [
-        "McGraw-Hill"
-      ],
-      "author_key": [
-        "OL2624612A"
-      ],
-      "cover_edition_key": 5437853,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/5437853-L.jpg"
-    },
-    {
-      "id": "56ca",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Fundamentals Of Electricity And Magnetism",
-      "book_character": [],
-      "book_place": [],
-      "book_author": [
-        "McGraw-Hill"
-      ],
-      "author_key": [
-        "OL2624612A"
-      ],
-      "cover_edition_key": 5437853,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/5437853-L.jpg"
-    },
-    {
-      "id": "0994",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Fundamentals Of Electricity And Magnetism",
-      "book_character": [],
-      "book_place": [],
-      "book_author": [
-        "McGraw-Hill"
-      ],
-      "author_key": [
-        "OL2624612A"
-      ],
-      "cover_edition_key": 5437853,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/5437853-L.jpg"
-    },
-    {
-      "id": "c7f5",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Madly Marvelous",
-      "book_character": [],
-      "book_place": [],
-      "book_author": [
-        "Donna Zakowska"
-      ],
-      "author_key": [
-        "OL9560313A"
-      ],
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/undefined-L.jpg"
-    },
-    {
-      "id": "2959",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Wonderful Wizard of Oz",
-      "first_sentence": [
-        "Orothy lived in the midst of the  great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's wife.",
-        "Dorothy LIVED IN the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's wife.",
-        "Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's wife.",
-        "DOROTHY lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's wife.",
-        "OROTHY lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's wife.",
-        "Dorotea habia perdido a sus padres siendo muy nina, y desde entonces habia vivido con sus tios Enrique y Emma, dos viejos granjeros que tenian una casa modesta en medio de las grandes praderas de Kansas y que no sonreian por nada del mundo."
-      ],
-      "book_character": [
-        "Dorothy Gale",
-        "Scarecrow (Fictitious character : Baum)",
-        "Dorothy Gale (Fictitious character)",
-        "Wizard of Oz (Fictitious character)",
-        "Tin Woodman (Fictitious character)",
-        "Cowardly Lion (Fictitious character)",
-        "Dorothy",
-        "Tin Man",
-        "Scarecrow",
-        "L. Frank Baum (1856-1919)"
-      ],
-      "book_place": [
-        "Oz",
-        "Kansas",
-        "United States",
-        "Oz (Imaginary place)",
-        "Etats-Unis",
-        "Mei guo"
-      ],
-      "book_author": [
-        "L. Frank Baum"
-      ],
-      "author_key": [
-        "OL9348793A"
-      ],
-      "cover_edition_key": 552443,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/552443-L.jpg"
-    },
-    {
-      "id": "80b0",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Why I am an atheist",
-      "book_character": [
-        "Bhagat Singh (1907-1931)"
-      ],
-      "book_place": [],
-      "book_author": [
-        "Bhagat Singh"
-      ],
-      "author_key": [
-        "OL4769985A"
-      ],
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/undefined-L.jpg"
-    },
-    {
-      "id": "21fa",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Why I am an atheist",
-      "book_character": [
-        "Bhagat Singh (1907-1931)"
-      ],
-      "book_place": [],
-      "book_author": [
-        "Bhagat Singh"
-      ],
-      "author_key": [
-        "OL4769985A"
-      ],
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/undefined-L.jpg"
-    },
-    {
-      "id": "823d",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "b7fe",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Alchemist",
-      "first_sentence": [
-        "El muchacho se llamaba Santiago."
-      ],
-      "book_character": [
-        "Paulo Coelho",
-        "Daniel Sampere",
-        "Derek Ruiz",
-        "Sea Lion Books",
-        "HarperCollins"
-      ],
-      "book_place": [
-        "Spain",
-        "Saara Desert",
-        "Andalusia",
-        "Andalusia (Spain)"
-      ],
-      "book_author": [
-        "Paulo Coelho"
-      ],
-      "author_key": [
-        "OL66700A"
-      ],
-      "cover_edition_key": 48240,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/48240-L.jpg"
-    },
-    {
-      "id": "7be3",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Alchemist",
-      "first_sentence": [
-        "El muchacho se llamaba Santiago."
-      ],
-      "book_character": [
-        "Paulo Coelho",
-        "Daniel Sampere",
-        "Derek Ruiz",
-        "Sea Lion Books",
-        "HarperCollins"
-      ],
-      "book_place": [
-        "Spain",
-        "Saara Desert",
-        "Andalusia",
-        "Andalusia (Spain)"
-      ],
-      "book_author": [
-        "Paulo Coelho"
-      ],
-      "author_key": [
-        "OL66700A"
-      ],
-      "cover_edition_key": 48240,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/48240-L.jpg"
-    },
-    {
-      "id": "2208",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "bd86",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "ef80",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "a88c",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "ee42",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "cb4d",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "67ab",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "14e7",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "3974",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "fdfc",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "6ecd",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "841f",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "4a56",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "5fd0",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "21ce",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "58ab",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "a934",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "c6d7",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "f15e",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "1b6d",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "5748",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "8b51",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "9c9b",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "921c",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "ca3b",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "c3b5",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "0de1",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "efc9",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "4df5",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "3f2a",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "9d8b",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "1e6d",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "92e5",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "8322",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "ebbb",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "c291",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "898d",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "efe4",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "ea6c",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Alchemist",
-      "first_sentence": [
-        "El muchacho se llamaba Santiago."
-      ],
-      "book_character": [
-        "Paulo Coelho",
-        "Daniel Sampere",
-        "Derek Ruiz",
-        "Sea Lion Books",
-        "HarperCollins"
-      ],
-      "book_place": [
-        "Spain",
-        "Saara Desert",
-        "Andalusia",
-        "Andalusia (Spain)"
-      ],
-      "book_author": [
-        "Paulo Coelho"
-      ],
-      "author_key": [
-        "OL66700A"
-      ],
-      "cover_edition_key": 48240,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/48240-L.jpg"
-    },
-    {
-      "id": "95b7",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "f62e",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
     },
     {
       "id": "6ad8",
@@ -4664,60 +2664,6 @@
       "cover_image_url": "https://covers.openlibrary.org/b/ID/48240-L.jpg"
     },
     {
-      "id": "bb1f",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Alchemist",
-      "first_sentence": [
-        "El muchacho se llamaba Santiago."
-      ],
-      "book_character": [
-        "Paulo Coelho",
-        "Daniel Sampere",
-        "Derek Ruiz",
-        "Sea Lion Books",
-        "HarperCollins"
-      ],
-      "book_place": [
-        "Spain",
-        "Saara Desert",
-        "Andalusia",
-        "Andalusia (Spain)"
-      ],
-      "book_author": [
-        "Paulo Coelho"
-      ],
-      "author_key": [
-        "OL66700A"
-      ],
-      "cover_edition_key": 48240,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/48240-L.jpg"
-    },
-    {
-      "id": "c8d1",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
       "id": "32fb",
       "user_id": 1,
       "user_name": "Ankita",
@@ -4746,60 +2692,6 @@
       ],
       "cover_edition_key": 7239831,
       "cover_image_url": "https://covers.openlibrary.org/b/ID/7239831-L.jpg"
-    },
-    {
-      "id": "95a6",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Lightning Thief",
-      "first_sentence": [
-        "Look, I didn't want to be a half-blood."
-      ],
-      "book_character": [
-        "Percy Jackson (Fictitious character)",
-        "Poseidon (Greek deity)",
-        "Zeus (Greek deity)",
-        "Hades (Greek deity)"
-      ],
-      "book_place": [
-        "Manhattan",
-        "Long Island",
-        "New York",
-        "Las Vegas",
-        "Los Angeles"
-      ],
-      "book_author": [
-        "Rick Riordan"
-      ],
-      "author_key": [
-        "OL30765A"
-      ],
-      "cover_edition_key": 7239831,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/7239831-L.jpg"
-    },
-    {
-      "id": "0e09",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
     },
     {
       "id": "bf85",
@@ -4868,37 +2760,6 @@
       "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
     },
     {
-      "id": "c9dd",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Of Mice and Men",
-      "first_sentence": [
-        "A few miles south of Soledad, the Salinas River drops in close to the hillside bank and runs deep and green.",
-        "John Ernst Steinbeck was born on February 27, 1902 in Salinas, California.",
-        "A Few miles south of Soledad, the Salinas River drops in close to the hillside bank and runs deep and green."
-      ],
-      "book_character": [
-        "George Milton",
-        "Lennie Small"
-      ],
-      "book_place": [
-        "California",
-        "Salinas River Valley",
-        "Salinas, Valle del Río (California)",
-        "Soledad CA",
-        "Salinas River Valley (Calif.)",
-        "Salinas, Vallée du (Calif.)"
-      ],
-      "book_author": [
-        "John Steinbeck"
-      ],
-      "author_key": [
-        "OL25788A"
-      ],
-      "cover_edition_key": 14319003,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/14319003-L.jpg"
-    },
-    {
       "id": "6618",
       "user_id": 1,
       "user_name": "Ankita",
@@ -4918,84 +2779,6 @@
       ],
       "cover_edition_key": 2359452,
       "cover_image_url": "https://covers.openlibrary.org/b/ID/2359452-L.jpg"
-    },
-    {
-      "id": "5888",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "e2e2",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Holes",
-      "first_sentence": [
-        "There is no lake at Camp Green Lake."
-      ],
-      "book_character": [
-        "Stanley Yelnats"
-      ],
-      "book_place": [
-        "United State",
-        "United States"
-      ],
-      "book_author": [
-        "Louis Sachar"
-      ],
-      "author_key": [
-        "OL29774A"
-      ],
-      "cover_edition_key": 19797,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "2b8b",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Alchemist",
-      "first_sentence": [
-        "El muchacho se llamaba Santiago."
-      ],
-      "book_character": [
-        "Paulo Coelho",
-        "Daniel Sampere",
-        "Derek Ruiz",
-        "Sea Lion Books",
-        "HarperCollins"
-      ],
-      "book_place": [
-        "Spain",
-        "Saara Desert",
-        "Andalusia",
-        "Andalusia (Spain)"
-      ],
-      "book_author": [
-        "Paulo Coelho"
-      ],
-      "author_key": [
-        "OL66700A"
-      ],
-      "cover_edition_key": 48240,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/48240-L.jpg"
     },
     {
       "id": "0577",
@@ -5020,87 +2803,6 @@
       ],
       "cover_edition_key": 19797,
       "cover_image_url": "https://covers.openlibrary.org/b/ID/19797-L.jpg"
-    },
-    {
-      "id": "a5bc",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Wonder",
-      "first_sentence": [
-        "Médicos vieram de cidades distantes só para me ver, parados ao lado da minha cama sem acreditar."
-      ],
-      "book_character": [
-        "August Pullman"
-      ],
-      "book_place": [
-        "Beecher Prep",
-        "New York",
-        "Manhattan",
-        "Manhattan (New York, N.Y.)",
-        "New York (State)"
-      ],
-      "book_author": [
-        "R. J. Palacio"
-      ],
-      "author_key": [
-        "OL6995566A"
-      ],
-      "cover_edition_key": 8223160,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/8223160-L.jpg"
-    },
-    {
-      "id": "7a54",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Wonder",
-      "first_sentence": [
-        "Médicos vieram de cidades distantes só para me ver, parados ao lado da minha cama sem acreditar."
-      ],
-      "book_character": [
-        "August Pullman"
-      ],
-      "book_place": [
-        "Beecher Prep",
-        "New York",
-        "Manhattan",
-        "Manhattan (New York, N.Y.)",
-        "New York (State)"
-      ],
-      "book_author": [
-        "R. J. Palacio"
-      ],
-      "author_key": [
-        "OL6995566A"
-      ],
-      "cover_edition_key": 8223160,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/8223160-L.jpg"
-    },
-    {
-      "id": "23ec",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Wonder",
-      "first_sentence": [
-        "Médicos vieram de cidades distantes só para me ver, parados ao lado da minha cama sem acreditar."
-      ],
-      "book_character": [
-        "August Pullman"
-      ],
-      "book_place": [
-        "Beecher Prep",
-        "New York",
-        "Manhattan",
-        "Manhattan (New York, N.Y.)",
-        "New York (State)"
-      ],
-      "book_author": [
-        "R. J. Palacio"
-      ],
-      "author_key": [
-        "OL6995566A"
-      ],
-      "cover_edition_key": 8223160,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/8223160-L.jpg"
     },
     {
       "id": "12a4",
@@ -5224,27 +2926,6 @@
       "cover_image_url": "https://covers.openlibrary.org/b/ID/10521270-L.jpg"
     },
     {
-      "id": "4bfa",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Freedom from the known",
-      "first_sentence": [
-        "MAN HAS THROUGHOUT the ages been seeking something beyond himself, beyond material welfare we call truth or God or reality, a timeless state-something that cannot be disturbed by circumstances, by thought or by human corruption."
-      ],
-      "book_character": [
-        "JIDDU KRISHNAMURTI"
-      ],
-      "book_place": [],
-      "book_author": [
-        "Jiddu Krishnamurti"
-      ],
-      "author_key": [
-        "OL2630157A"
-      ],
-      "cover_edition_key": 10715430,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/10715430-L.jpg"
-    },
-    {
       "id": "da6c",
       "user_id": 1,
       "user_name": "Ankita",
@@ -5259,96 +2940,6 @@
       ],
       "cover_edition_key": 12818585,
       "cover_image_url": "https://covers.openlibrary.org/b/ID/12818585-L.jpg"
-    },
-    {
-      "id": "3879",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Bible",
-      "first_sentence": [
-        "Welcome to the world of patriarchs-men whose names are indelibly chiseled on the marbled walls of history: Adam, Noah, Abraham, Isaac, Jacob and Joseph.",
-        "For a week, you work tediously in art class creating a clay sculpture.",
-        "The present edition of the Authorized Version of the Bible commemorates the tercentenary of that great historic Version.",
-        "GENESIS 1:1 OPENS with the Hebrew word bereshith, which means \"by way of beginning\" or \"in [the] beginning.\"",
-        "Genesis is about the beginning of everything - the beginning of the earth, the sky, animals and people.",
-        "In the beginning when God created the heavens and the earth, the earth was a formless void and darkness covered the face of the deep, while a wind from God swept over the face of the waters.",
-        "IN the beginning God created the heaven and the earth.",
-        "The book of Genesis contains the \"old, old stories\" of our faith, the record of God's interaction with his people, an account that has been faithfully handed down to us for our encouragement.",
-        "1 IN the beginning God created the heaven and the earth.",
-        "This book answers some of life's deepest questions, such as \"Where did everything come from?\"",
-        "The English title, Genesis, comes from the Greek translation (Septuagint, LXX) meaning \"origins\"; whereas, the Hebrew title is derived from the Bible's very first word, translated \"in the beginning.\"",
-        "Jewish tradition lists Moses as the author of Genesis and of the next four books.",
-        "Introduction: Genesis, a Greek word meaning \"origin\" or \"beginning,\" was the title given to this book by the translators of the third century B.C.",
-        "In the beginning, when God created the heavens and the earth, the earth was a formless wasteland, and darkness covered the abyss, while a mighty wind swept over the waters.",
-        "GENESIS is the book of beginnings.",
-        "If the Hebrew bible is indebted to any one biblical book for its daring historical argument, that book is Genesis.",
-        "The first phrase in the Hebrew text of 1:1 is bereshith (\"in [the] beginning\"), which is also the Hebrew title of the book (books in ancient times customarily were named after their first word or two).",
-        "In the ancient Near East, most of the peoples had myths relating how the world came to be.",
-        "In the beginning when God created the heavens and the earth, the earth was a formless void and darkness covered the face of the deep, while a wind from God swept over the face of waters.",
-        "The Great Flood: The ancient world had become so evil by the time of Noah's generation that God destroyed it by a universal flood, sparing only righteous Noah and his family as a remnant (chs. 6-10).",
-        "In the beginning God created heaven and earth.",
-        "THE OLD TESTAMENT may be described as the literary expression of the religious life of ancient Israel.",
-        "IN THE beginning God created the heaven and the earth.",
-        "The English title is based on the name given by the Greek translators of this book in the second century B.C.",
-        "As far as stories go, Genesis starts in a hurry.",
-        "TO know God's Word, you have to begin at the beginning, the book of Genesis.",
-        "IN THE beginning God (prepared, formed, fashioned, and) created the heavens and the earth.",
-        "BEGIN . . . start . . . commence . . . open. . . . There's something refreshing and optimistic about these words, whether they refer to the dawn of a new day, the birth of a child, the prelude of a symphony, or the first miles of a family vacation.",
-        "THE WORD \"PENTATEUCH,\" from the Greek for \"five (penta) books (teuchos),\" has entered English by way of Latin as the designation for the first group books in the Hebrew Bible, comprising Genesis, Exodus Leviticus, Numbers, and Deuteronomy.",
-        "The Pentateuch is the first five books of the Bible, called \"Torah\" in the Hebrew Scriptures.",
-        "The Pentateuch, which consists of the first five books of the Bible (Genesis, Exodus, Leviticus, Numbers, Deuteronomy), enjoys particular prestige among the Jews as the \"Law,\" or \"Torah,\" the concrete expression of God's will in their regard.",
-        "Genesis, a Greek word meaning \"origin\" or \"beginning,\" was the title given to this book by the translators of the third century B.C.",
-        "In the beginning God created the heavens and the earth.",
-        "ZEAL to promote the common good, whether it be by devising any thing ourselves, or revising that which hath been laboured by others, deserveth certainly much respect and esteem, but yet findeth but cold entertainment in the world.",
-        "In the beginning, God created the heavens and the earth.",
-        "In the beginning God created the sky and the earth.",
-        "God started everything.",
-        "In the beginning when God created the heavens and the earth the earth was a formless void and darkness covered the face of the deep, while a wind from God swept over the face of the waters.",
-        "There is some debate about who wrote Genesis.",
-        "The Commission of Bishops and Presbyters appointed by the General Convention of the Protestant Episcopal Church in the United States of America to draw up Marginal Readings for the English Version of the Bible, and empowered by the General Convention of 1901 to print a Bible or Bibles containing the same, hereby certify that this edition of the Bible contains the Marginal Readings adopted by the General Convention, and allowed to be used in churches at the discretion of the minister in reading the Lessons from Holy Scripture in Morning and Evening Prayer.",
-        "BEGIN...start...commence...open....",
-        "So there you are, a teenager at your grandparent's house.",
-        "To the most High and Mighty Prince James, by the Grace of God, King of Great Britain, France, and Ireland, Defender of the Faith, etc. the Translators of the of the Bible wish Grace, Mercy, and Peace, through Jesus Christ Our Lord.",
-        "As the book of beginnings, Genesis gives us God's perspective on the beginning of several key Biblical issues such as creation, marriage, sin, sacrifice and Hebrew history.",
-        "This Bible contains the full text of the New Revised Standard Version (NRSV) Bible translation.",
-        "The book you hold in your hand contains one of humanity's greatest treasures.",
-        "No person was ever born knowing how to read, for reading is neither instinctual nor hereditary.",
-        "Genesis (Heb. Bere'shith, lit. \"in the beginning\") is the first book of the Pentateuch of Torah (a designation for the first five books of the Old Testament).",
-        "To record God's creation of the world and his desire to have a people set apart to worship him",
-        "IN THE BEGINNING GOD CREATED THE HEAVEN AND THE EARTH.",
-        "The Scriptures were originally written upon rolls of parchment, similar, probably, to those which are to be seen in the holy place of Jewish synagogues at the present day.",
-        "If we begin our study of the Bible with Genesis, it is important to remember that this is clearly the beginning.",
-        "Genesis was written to tell how God created the world and to show how God wants people to worship and obey him.",
-        "THE WORD \"PENTATEUCH,\" from the Greek for \"five (penta) books (teuchos),\" has entered English by way of Latin as the designation for the first group of books in the Hebrew Bible, comprising Genesis, Exodus, Leviticus, Numbers, and Deuteronomy.",
-        "Genesis, meaning \"beginning,\" covers the times from the creation (i.e. the beginning of history) to the Israelite sojourn in Egypt.",
-        "This Twentieth Century Edition of the Holy Bible is the Authorized or King James Version, which the text verified, from which certain indicated deletions have been made.",
-        "The first phrase in the Hebrew text of Genesis 1:1 means \"In the beginning.\"",
-        "In this Volume are printed, in parallel columns, the Authorized Version of 1611, and the Revised Version, of which last the Old Testament appeared in 1885 and the New Testament in 1881.",
-        "Genesis, mearing \"origin\" (genealogical), covers the time from creation to the descent of Jacob and his sons into Egypt.",
-        "The Old Testament consists of a collection of works composed at various times from the twelfth to the second century B.C.E.",
-        "Genesis is the book of beginnings.",
-        "In the beginning God created the heaven and the earth.",
-        "In the beginning God created the heavens and the earth",
-        "IN the beginning God created the heavens and the earth.",
-        "The first part of Genesis focuses on the beginning and spread of sin in the world and culminates in the devastating flood in the days of Noah.",
-        "And the book answers some of life's biggest questions?"
-      ],
-      "book_character": [
-        "Jesus Christ"
-      ],
-      "book_place": [
-        "Washington (D.C.)",
-        "Assam (India)",
-        "Finland"
-      ],
-      "book_author": [
-        "Bible"
-      ],
-      "author_key": [
-        "OL2745568A"
-      ],
-      "cover_edition_key": 12707846,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/12707846-L.jpg"
     },
     {
       "id": "7527",
@@ -5386,519 +2977,6 @@
       "cover_image_url": "https://covers.openlibrary.org/b/ID/12356249-L.jpg"
     },
     {
-      "id": "9fab",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Alchemist",
-      "first_sentence": [
-        "El muchacho se llamaba Santiago."
-      ],
-      "book_character": [
-        "Paulo Coelho",
-        "Daniel Sampere",
-        "Derek Ruiz",
-        "Sea Lion Books",
-        "HarperCollins"
-      ],
-      "book_place": [
-        "Spain",
-        "Saara Desert",
-        "Andalusia",
-        "Andalusia (Spain)"
-      ],
-      "book_author": [
-        "Paulo Coelho"
-      ],
-      "author_key": [
-        "OL66700A"
-      ],
-      "cover_edition_key": 48240,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/48240-L.jpg"
-    },
-    {
-      "id": "5eaa",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Alchemist",
-      "first_sentence": [
-        "El muchacho se llamaba Santiago."
-      ],
-      "book_character": [
-        "Paulo Coelho",
-        "Daniel Sampere",
-        "Derek Ruiz",
-        "Sea Lion Books",
-        "HarperCollins"
-      ],
-      "book_place": [
-        "Spain",
-        "Saara Desert",
-        "Andalusia",
-        "Andalusia (Spain)"
-      ],
-      "book_author": [
-        "Paulo Coelho"
-      ],
-      "author_key": [
-        "OL66700A"
-      ],
-      "cover_edition_key": 48240,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/48240-L.jpg"
-    },
-    {
-      "id": "ca67",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Alchemist",
-      "first_sentence": [
-        "El muchacho se llamaba Santiago."
-      ],
-      "book_character": [
-        "Paulo Coelho",
-        "Daniel Sampere",
-        "Derek Ruiz",
-        "Sea Lion Books",
-        "HarperCollins"
-      ],
-      "book_place": [
-        "Spain",
-        "Saara Desert",
-        "Andalusia",
-        "Andalusia (Spain)"
-      ],
-      "book_author": [
-        "Paulo Coelho"
-      ],
-      "author_key": [
-        "OL66700A"
-      ],
-      "cover_edition_key": 48240,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/48240-L.jpg"
-    },
-    {
-      "id": "40b7",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Alchemist",
-      "first_sentence": [
-        "El muchacho se llamaba Santiago."
-      ],
-      "book_character": [
-        "Paulo Coelho",
-        "Daniel Sampere",
-        "Derek Ruiz",
-        "Sea Lion Books",
-        "HarperCollins"
-      ],
-      "book_place": [
-        "Spain",
-        "Saara Desert",
-        "Andalusia",
-        "Andalusia (Spain)"
-      ],
-      "book_author": [
-        "Paulo Coelho"
-      ],
-      "author_key": [
-        "OL66700A"
-      ],
-      "cover_edition_key": 48240,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/48240-L.jpg"
-    },
-    {
-      "id": "aa3f",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Alchemist",
-      "first_sentence": [
-        "El muchacho se llamaba Santiago."
-      ],
-      "book_character": [
-        "Paulo Coelho",
-        "Daniel Sampere",
-        "Derek Ruiz",
-        "Sea Lion Books",
-        "HarperCollins"
-      ],
-      "book_place": [
-        "Spain",
-        "Saara Desert",
-        "Andalusia",
-        "Andalusia (Spain)"
-      ],
-      "book_author": [
-        "Paulo Coelho"
-      ],
-      "author_key": [
-        "OL66700A"
-      ],
-      "cover_edition_key": 48240,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/48240-L.jpg"
-    },
-    {
-      "id": "2460",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Alchemist",
-      "first_sentence": [
-        "El muchacho se llamaba Santiago."
-      ],
-      "book_character": [
-        "Paulo Coelho",
-        "Daniel Sampere",
-        "Derek Ruiz",
-        "Sea Lion Books",
-        "HarperCollins"
-      ],
-      "book_place": [
-        "Spain",
-        "Saara Desert",
-        "Andalusia",
-        "Andalusia (Spain)"
-      ],
-      "book_author": [
-        "Paulo Coelho"
-      ],
-      "author_key": [
-        "OL66700A"
-      ],
-      "cover_edition_key": 48240,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/48240-L.jpg"
-    },
-    {
-      "id": "3ab4",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Alchemist",
-      "first_sentence": [
-        "El muchacho se llamaba Santiago."
-      ],
-      "book_character": [
-        "Paulo Coelho",
-        "Daniel Sampere",
-        "Derek Ruiz",
-        "Sea Lion Books",
-        "HarperCollins"
-      ],
-      "book_place": [
-        "Spain",
-        "Saara Desert",
-        "Andalusia",
-        "Andalusia (Spain)"
-      ],
-      "book_author": [
-        "Paulo Coelho"
-      ],
-      "author_key": [
-        "OL66700A"
-      ],
-      "cover_edition_key": 48240,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/48240-L.jpg"
-    },
-    {
-      "id": "bc74",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Alchemist",
-      "first_sentence": [
-        "El muchacho se llamaba Santiago."
-      ],
-      "book_character": [
-        "Paulo Coelho",
-        "Daniel Sampere",
-        "Derek Ruiz",
-        "Sea Lion Books",
-        "HarperCollins"
-      ],
-      "book_place": [
-        "Spain",
-        "Saara Desert",
-        "Andalusia",
-        "Andalusia (Spain)"
-      ],
-      "book_author": [
-        "Paulo Coelho"
-      ],
-      "author_key": [
-        "OL66700A"
-      ],
-      "cover_edition_key": 48240,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/48240-L.jpg"
-    },
-    {
-      "id": "88a6",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Alchemist",
-      "first_sentence": [
-        "El muchacho se llamaba Santiago."
-      ],
-      "book_character": [
-        "Paulo Coelho",
-        "Daniel Sampere",
-        "Derek Ruiz",
-        "Sea Lion Books",
-        "HarperCollins"
-      ],
-      "book_place": [
-        "Spain",
-        "Saara Desert",
-        "Andalusia",
-        "Andalusia (Spain)"
-      ],
-      "book_author": [
-        "Paulo Coelho"
-      ],
-      "author_key": [
-        "OL66700A"
-      ],
-      "cover_edition_key": 48240,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/48240-L.jpg"
-    },
-    {
-      "id": "8408",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Wonder",
-      "first_sentence": [
-        "Médicos vieram de cidades distantes só para me ver, parados ao lado da minha cama sem acreditar."
-      ],
-      "book_character": [
-        "August Pullman"
-      ],
-      "book_place": [
-        "Beecher Prep",
-        "New York",
-        "Manhattan",
-        "Manhattan (New York, N.Y.)",
-        "New York (State)"
-      ],
-      "book_author": [
-        "R. J. Palacio"
-      ],
-      "author_key": [
-        "OL6995566A"
-      ],
-      "cover_edition_key": 8223160,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/8223160-L.jpg"
-    },
-    {
-      "id": "718c",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Wonder",
-      "first_sentence": [
-        "Médicos vieram de cidades distantes só para me ver, parados ao lado da minha cama sem acreditar."
-      ],
-      "book_character": [
-        "August Pullman"
-      ],
-      "book_place": [
-        "Beecher Prep",
-        "New York",
-        "Manhattan",
-        "Manhattan (New York, N.Y.)",
-        "New York (State)"
-      ],
-      "book_author": [
-        "R. J. Palacio"
-      ],
-      "author_key": [
-        "OL6995566A"
-      ],
-      "cover_edition_key": 8223160,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/8223160-L.jpg"
-    },
-    {
-      "id": "c725",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Wonder",
-      "first_sentence": [
-        "Médicos vieram de cidades distantes só para me ver, parados ao lado da minha cama sem acreditar."
-      ],
-      "book_character": [
-        "August Pullman"
-      ],
-      "book_place": [
-        "Beecher Prep",
-        "New York",
-        "Manhattan",
-        "Manhattan (New York, N.Y.)",
-        "New York (State)"
-      ],
-      "book_author": [
-        "R. J. Palacio"
-      ],
-      "author_key": [
-        "OL6995566A"
-      ],
-      "cover_edition_key": 8223160,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/8223160-L.jpg"
-    },
-    {
-      "id": "d1ea",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Wonder",
-      "first_sentence": [
-        "Médicos vieram de cidades distantes só para me ver, parados ao lado da minha cama sem acreditar."
-      ],
-      "book_character": [
-        "August Pullman"
-      ],
-      "book_place": [
-        "Beecher Prep",
-        "New York",
-        "Manhattan",
-        "Manhattan (New York, N.Y.)",
-        "New York (State)"
-      ],
-      "book_author": [
-        "R. J. Palacio"
-      ],
-      "author_key": [
-        "OL6995566A"
-      ],
-      "cover_edition_key": 8223160,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/8223160-L.jpg"
-    },
-    {
-      "id": "ac08",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Wonder",
-      "first_sentence": [
-        "Médicos vieram de cidades distantes só para me ver, parados ao lado da minha cama sem acreditar."
-      ],
-      "book_character": [
-        "August Pullman"
-      ],
-      "book_place": [
-        "Beecher Prep",
-        "New York",
-        "Manhattan",
-        "Manhattan (New York, N.Y.)",
-        "New York (State)"
-      ],
-      "book_author": [
-        "R. J. Palacio"
-      ],
-      "author_key": [
-        "OL6995566A"
-      ],
-      "cover_edition_key": 8223160,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/8223160-L.jpg"
-    },
-    {
-      "id": "f9e5",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Wonder",
-      "first_sentence": [
-        "Médicos vieram de cidades distantes só para me ver, parados ao lado da minha cama sem acreditar."
-      ],
-      "book_character": [
-        "August Pullman"
-      ],
-      "book_place": [
-        "Beecher Prep",
-        "New York",
-        "Manhattan",
-        "Manhattan (New York, N.Y.)",
-        "New York (State)"
-      ],
-      "book_author": [
-        "R. J. Palacio"
-      ],
-      "author_key": [
-        "OL6995566A"
-      ],
-      "cover_edition_key": 8223160,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/8223160-L.jpg"
-    },
-    {
-      "id": "5e21",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Wonder",
-      "first_sentence": [
-        "Médicos vieram de cidades distantes só para me ver, parados ao lado da minha cama sem acreditar."
-      ],
-      "book_character": [
-        "August Pullman"
-      ],
-      "book_place": [
-        "Beecher Prep",
-        "New York",
-        "Manhattan",
-        "Manhattan (New York, N.Y.)",
-        "New York (State)"
-      ],
-      "book_author": [
-        "R. J. Palacio"
-      ],
-      "author_key": [
-        "OL6995566A"
-      ],
-      "cover_edition_key": 8223160,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/8223160-L.jpg"
-    },
-    {
-      "id": "d151",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Wonder",
-      "first_sentence": [
-        "Médicos vieram de cidades distantes só para me ver, parados ao lado da minha cama sem acreditar."
-      ],
-      "book_character": [
-        "August Pullman"
-      ],
-      "book_place": [
-        "Beecher Prep",
-        "New York",
-        "Manhattan",
-        "Manhattan (New York, N.Y.)",
-        "New York (State)"
-      ],
-      "book_author": [
-        "R. J. Palacio"
-      ],
-      "author_key": [
-        "OL6995566A"
-      ],
-      "cover_edition_key": 8223160,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/8223160-L.jpg"
-    },
-    {
-      "id": "2010",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Wonder",
-      "first_sentence": [
-        "Médicos vieram de cidades distantes só para me ver, parados ao lado da minha cama sem acreditar."
-      ],
-      "book_character": [
-        "August Pullman"
-      ],
-      "book_place": [
-        "Beecher Prep",
-        "New York",
-        "Manhattan",
-        "Manhattan (New York, N.Y.)",
-        "New York (State)"
-      ],
-      "book_author": [
-        "R. J. Palacio"
-      ],
-      "author_key": [
-        "OL6995566A"
-      ],
-      "cover_edition_key": 8223160,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/8223160-L.jpg"
-    },
-    {
       "id": "7078",
       "user_id": 1,
       "user_name": "Ankita",
@@ -5924,62 +3002,6 @@
       ],
       "cover_edition_key": 8223160,
       "cover_image_url": "https://covers.openlibrary.org/b/ID/8223160-L.jpg"
-    },
-    {
-      "id": "0baf",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Män som hatar kvinnor",
-      "first_sentence": [
-        "Era diventato un rito che si ripeteva ogni anno.",
-        "See kordus igal aastal."
-      ],
-      "book_character": [
-        "Fictitious characters: Lisbeth Salander",
-        "Mikhael Blomkvist",
-        "Erika Berger",
-        "Holger Palmgrem",
-        "Henrik Vanger",
-        "Harriet Vanger",
-        "Martin Vanger",
-        "Gottfried Vanger",
-        "Isabella Vanger",
-        "Cecilia Vanger",
-        "Anita Vanger",
-        "Birger Vanger",
-        "Harald Vanger",
-        "Hans-Erik Wennerström",
-        "Robert Lindberg",
-        "William Borg",
-        "Monica Abrahamsson",
-        "Pernilla Abrahamsson",
-        "Nils Bjurman",
-        "Dirch Frode",
-        "Dragan Armansky",
-        "Plague",
-        "Christer Malm",
-        "Janne Dahlman",
-        "Gustaf Morell",
-        "Anna Nygren",
-        "Gunnar Nilsson"
-      ],
-      "book_place": [
-        "Sweden",
-        "Stockholm",
-        "Hedeby Island",
-        "Australia",
-        "Miami",
-        "Marbella",
-        "Spain"
-      ],
-      "book_author": [
-        "Stieg Larsson"
-      ],
-      "author_key": [
-        "OL1414302A"
-      ],
-      "cover_edition_key": 9274740,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/9274740-L.jpg"
     },
     {
       "id": "df00",
@@ -6038,917 +3060,7 @@
       "cover_image_url": "https://covers.openlibrary.org/b/ID/9274740-L.jpg"
     },
     {
-      "id": "565e",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "b7cd",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "781b",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "8f91",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "6ab9",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "f989",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "f490",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "70c0",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "0a1f",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "ccac",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "bf83",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "9ee7",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "af3a",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "4b6c",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "edf3",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "c589",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "fc9f",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "dd3a",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "7d83",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "281a",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "1cff",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "31de",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "25a7",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "e48a",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "4f12",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "ae69",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "f688",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "e444",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "8a3a",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
       "id": "19ff",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "7869",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "17ea",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "1285",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "cd20",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "2738",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Animal Farm",
-      "first_sentence": [
-        "MR JONES, of the Manor farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "Nous sommes à la ferme, à la tombée de la nuit, alors que M.Jones vient de rentrer du pub.\r\nIl est ce soir bien trop éméché pour s'occuper de ses bêtes comme il convient...",
-        "MR JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
-        "MR. JONES, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes."
-      ],
-      "book_character": [
-        "George Orwell (1903-1950)"
-      ],
-      "book_place": [
-        "United Kingdom"
-      ],
-      "book_author": [
-        "George Orwell"
-      ],
-      "author_key": [
-        "OL118077A"
-      ],
-      "cover_edition_key": 11261770,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/11261770-L.jpg"
-    },
-    {
-      "id": "53aa",
       "user_id": 1,
       "user_name": "Ankita",
       "book_name": "Animal Farm",
@@ -6991,6 +3103,383 @@
       ],
       "cover_edition_key": 13290711,
       "cover_image_url": "https://covers.openlibrary.org/b/ID/13290711-L.jpg"
+    },
+    {
+      "id": "aabf",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "Love among the Bookshelves",
+      "book_character": [],
+      "book_place": [],
+      "book_author": [
+        "Ruskin Bond"
+      ],
+      "author_key": [
+        "OL9961676A"
+      ],
+      "cover_edition_key": 14580762,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/14580762-L.jpg"
+    },
+    {
+      "id": "b1a9",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "Love among the chickens / by P. G. Wodehouse",
+      "book_character": [],
+      "book_place": [
+        "England",
+        "Dorsetshire",
+        "Ireland"
+      ],
+      "book_author": [
+        "P. G. Wodehouse"
+      ],
+      "author_key": [
+        "OL136197A"
+      ],
+      "cover_edition_key": 10222170,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/10222170-L.jpg"
+    },
+    {
+      "id": "3a0b",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "Ghost Stories of an Antiquary",
+      "first_sentence": [
+        "Two men in a smoking-room were talking of their private-school days."
+      ],
+      "book_character": [
+        "M. R. James (1862-1936)"
+      ],
+      "book_place": [],
+      "book_author": [
+        "Montague Rhodes James"
+      ],
+      "author_key": [
+        "OL56244A"
+      ],
+      "cover_edition_key": 309008,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/309008-L.jpg"
+    },
+    {
+      "id": "4102",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "Peril at End House",
+      "first_sentence": [
+        "NO seaside town in the south of England is, I think, as attractive as St. Loo."
+      ],
+      "book_character": [
+        "Hercule Poirot (Fictitious character)"
+      ],
+      "book_place": [
+        "England",
+        "Belgium"
+      ],
+      "book_author": [
+        "Agatha Christie"
+      ],
+      "author_key": [
+        "OL27695A"
+      ],
+      "cover_edition_key": 12996556,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/12996556-L.jpg"
+    },
+    {
+      "id": "927b",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "Dragon",
+      "first_sentence": [
+        "The worst of the typhoon had passed."
+      ],
+      "book_character": [],
+      "book_place": [
+        "Pacific Ocean"
+      ],
+      "book_author": [
+        "Clive Cussler"
+      ],
+      "author_key": [
+        "OL29079A"
+      ],
+      "cover_edition_key": 408145,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/408145-L.jpg"
+    },
+    {
+      "id": "8da8",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "A thatched roof",
+      "book_character": [],
+      "book_place": [
+        "Cambridgeshire (England)"
+      ],
+      "book_author": [
+        "Nichols, Beverley"
+      ],
+      "author_key": [
+        "OL218673A"
+      ],
+      "cover_edition_key": 679460,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/679460-L.jpg"
+    },
+    {
+      "id": "fd6b",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "Quiet",
+      "book_character": [],
+      "book_place": [],
+      "book_author": [
+        "Susan Cain"
+      ],
+      "author_key": [
+        "OL7071534A"
+      ],
+      "cover_edition_key": 7079753,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/7079753-L.jpg"
+    },
+    {
+      "id": "6f3d",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "Wuthering Heights",
+      "first_sentence": [
+        "I have just returned from a visit to my landlord-the solitary neighbor that I shall be troubled with.",
+        "1801-I have just returned from a visit to my landlord-the solitary neighbour that I shall be troubled with.",
+        "But, Mr Lockwood, I forget these tales cannot divert you.",
+        "1801.\u001a1 HAVE JUST returned from a visit to my landlord\u001athe solitary neighbour that 1 shall be troubled with. ",
+        "I have just returned from a visit to my landlord-the solitary neighbour that I shall be troubled with.",
+        "1801 - I have just returned from a visit to my landlord - the solitary neighbour that I shall be troubled with.",
+        "1801.-I have just returned from a visit to my landlord-the solitary neighbour that I shall be troubled with."
+      ],
+      "book_character": [
+        "Catherine Earnshaw",
+        "Cathy Linton",
+        "Edgar Linton",
+        "Heathcliff",
+        "Hindley Earnshaw",
+        "Isabella Linton",
+        "Joseph",
+        "Linton Heathcliff",
+        "Mr Lockwood",
+        "Nelly Dean",
+        "Zillah",
+        "Emily Brontë (1818-1848)"
+      ],
+      "book_place": [
+        "England",
+        "Yorkshire",
+        "Northern England",
+        "Wuthering Heights",
+        "Thrushcross Grange",
+        "Yorkshire (England)",
+        "Inglaterra",
+        "Ying guo",
+        "Angleterre",
+        "Jin dai"
+      ],
+      "book_author": [
+        "Emily Brontë"
+      ],
+      "author_key": [
+        "OL24529A"
+      ],
+      "cover_edition_key": 12818862,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/12818862-L.jpg"
+    },
+    {
+      "id": "f791",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "The Big Four",
+      "first_sentence": [
+        "I have met people who enjoy a channel crossing; men who can sit calmly in their deck-chairs and, on arrival, wait until the boat is moored, then gather their belongings together without fuss and disembark."
+      ],
+      "book_character": [
+        "Hercule Poirot",
+        "Arthur Hastings",
+        "Hercule Poirot (Fictitious character)"
+      ],
+      "book_place": [
+        "England"
+      ],
+      "book_author": [
+        "Agatha Christie"
+      ],
+      "author_key": [
+        "OL27695A"
+      ],
+      "cover_edition_key": 12996529,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/12996529-L.jpg"
+    },
+    {
+      "id": "ecad",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "The Adventures of Tom Sawyer",
+      "first_sentence": [
+        "\"TOM!'\"\r\nNo answer.\r\n''Tom!\"\r\nNo answer.\r\n''What's gone with that boy, I wonder? You TOM!\"\r\nNo answer.",
+        "\"TOM!\"",
+        "\"TOM!\" No answer.",
+        "\"Tom!\" No answer. \"Tom!\" No answer. \"What's gone with that boy, I wonder? You, TOM!\"",
+        "'Tom!' No answer."
+      ],
+      "book_character": [
+        "Mark Twain (1835-1910); Fictitious characters: Tom Sawyer",
+        "Huckleberry Finn",
+        "Tom Sawyer (Fictitious character)"
+      ],
+      "book_place": [
+        "Missouri",
+        "Mississippi River",
+        "Mississippi River Valley",
+        "Southern States",
+        "Mississippi",
+        "Misisipí (Río)",
+        "United States",
+        "Mei guo",
+        "Mississippidelta",
+        "Rio Mississipi"
+      ],
+      "book_author": [
+        "Mark Twain"
+      ],
+      "author_key": [
+        "OL18319A"
+      ],
+      "cover_edition_key": 12043351,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/12043351-L.jpg"
+    },
+    {
+      "id": "b9d9",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "Devil's Cub (Alastair-Audley #2)",
+      "book_character": [
+        "Lord Dominic Alastair, Marquis of Vidal",
+        "Mary Challoner",
+        "Marquis de Vidal"
+      ],
+      "book_place": [
+        "England",
+        "Great Britain",
+        "France",
+        "London"
+      ],
+      "book_author": [
+        "Georgette Heyer"
+      ],
+      "author_key": [
+        "OL766555A"
+      ],
+      "cover_edition_key": 6921822,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/6921822-L.jpg"
+    },
+    {
+      "id": "d185",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "If Tomorrow Comes",
+      "first_sentence": [
+        "She undressed slowly, dreamily, and when she was naked, she selected a bright negligee to wear so that the blood would not show."
+      ],
+      "book_character": [
+        "God. Tracy Whitney (Fictitious character)",
+        "Moroccan"
+      ],
+      "book_place": [
+        "New Orleans",
+        "Philadelphia",
+        "London",
+        "Amsterdam",
+        "Paris",
+        "Madrid",
+        "Turkey",
+        "China"
+      ],
+      "book_author": [
+        "Sidney Sheldon"
+      ],
+      "author_key": [
+        "OL225246A"
+      ],
+      "cover_edition_key": 6515527,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/6515527-L.jpg"
+    },
+    {
+      "id": "5b85",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "The sky is falling",
+      "book_character": [],
+      "book_place": [
+        "Washington (D.C.)"
+      ],
+      "book_author": [
+        "Sidney Sheldon"
+      ],
+      "author_key": [
+        "OL225246A"
+      ],
+      "cover_edition_key": 23402,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/23402-L.jpg"
+    },
+    {
+      "id": "a8ac",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "The Hunt for Red October",
+      "first_sentence": [
+        "Captain First Rank Marko Ramius of the Soviet Navy was dressed for the Arctic conditions normal to the Northern Fleet submarine base at Polyarnyy."
+      ],
+      "book_character": [],
+      "book_place": [
+        "United States",
+        "Soviet Union",
+        "Thor's Twins"
+      ],
+      "book_author": [
+        "Tom Clancy"
+      ],
+      "author_key": [
+        "OL25277A"
+      ],
+      "cover_edition_key": 683604,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/683604-L.jpg"
+    },
+    {
+      "id": "c138",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "Nonviolent Communication",
+      "book_character": [],
+      "book_place": [],
+      "book_author": [
+        "Marshall B. Rosenberg"
+      ],
+      "author_key": [
+        "OL243612A"
+      ],
+      "cover_edition_key": 940686,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/940686-L.jpg"
+    },
+    {
+      "id": "6ff3",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "The six pillars of self-esteem",
+      "book_character": [],
+      "book_place": [],
+      "book_author": [
+        "Nathaniel Branden"
+      ],
+      "author_key": [
+        "OL219707A"
+      ],
+      "cover_edition_key": 14421079,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/14421079-L.jpg"
     }
   ]
 }
