@@ -15,6 +15,7 @@ function RenderBook({ book, deleteBook, fetchAllBooks }) {
           src={book.cover_image_url}
           alt="cover-image"
           className={classes.cover}
+          fallbackSrc="/src/assets/pexels-photo-8142723.webp"
         />
         <Text
           className={classes.caption}
