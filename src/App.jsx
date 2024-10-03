@@ -53,11 +53,10 @@ const theme = createTheme({
   primaryColor: "orange",
   primaryShade: 6,
   breakpoints: {
-    xs: "30em",
-    sm: "48em",
-    md: "64em",
-    lg: "74em",
-    xl: "90em",
+    xs: "422px",
+    sm: "620px",
+    md: "745px",
+    lg: "967px",
   },
 });
 

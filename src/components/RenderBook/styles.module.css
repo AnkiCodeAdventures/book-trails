@@ -5,6 +5,7 @@
   padding: 8px 8px 0 8px;
   position: relative;
   cursor: pointer;
+  margin: 0 auto;
 }
 .paper:hover {
   background-color: var(--mantine-color-orange-6);
@@ -16,11 +17,11 @@
 
 .cover {
   object-fit: cover;
-  min-height: 265px;
+  min-height: 198px;
 }
 
 .caption {
-  min-height: 100px;
+  min-height: 115px;
   align-content: center;
   margin: auto 0;
   font-size: 14px;
@@ -58,23 +59,23 @@
   }
 }
 
-@media (max-width: 944px) {
+@media (max-width: 1127px) {
   .paper {
     width: 166px;
     padding: 8px;
   }
   .cover {
     object-fit: cover;
-    min-height: 222px;
+    min-height: 157px;
+    max-height: 241px;
   }
   .caption {
-    display: none;
+    min-height: 85px;
   }
 }
 
 @media (max-width: 824px) {
   .paper {
-    width: 150px;
   }
   .cover {
     object-fit: cover;
@@ -84,7 +85,6 @@
 
 @media (max-width: 760px) {
   .paper {
-    width: 132px;
     padding: 6px;
   }
   .cover {

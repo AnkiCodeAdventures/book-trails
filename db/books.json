@@ -1940,6 +1940,33 @@
       ],
       "cover_edition_key": 14627509,
       "cover_image_url": "https://covers.openlibrary.org/b/ID/14627509-L.jpg"
+    },
+    {
+      "id": "04ef",
+      "user_id": 1,
+      "user_name": "Ankita",
+      "book_name": "Wonder",
+      "first_sentence": [
+        "Médicos vieram de cidades distantes só para me ver, parados ao lado da minha cama sem acreditar."
+      ],
+      "book_character": [
+        "August Pullman"
+      ],
+      "book_place": [
+        "Beecher Prep",
+        "New York",
+        "Manhattan",
+        "Manhattan (New York, N.Y.)",
+        "New York (State)"
+      ],
+      "book_author": [
+        "R. J. Palacio"
+      ],
+      "author_key": [
+        "OL6995566A"
+      ],
+      "cover_edition_key": 8223160,
+      "cover_image_url": "https://covers.openlibrary.org/b/ID/8223160-L.jpg"
     }
   ]
 }

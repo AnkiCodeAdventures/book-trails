@@ -1,13 +1,12 @@
-import { Flex } from "@mantine/core";
+import { SimpleGrid } from "@mantine/core";
 import RenderBook from "../RenderBook/RenderBook";
 import classes from "./styles.module.css";
 
 function RenderAllBooks({ books, deleteBook, fetchAllBooks }) {
   return (
-    <Flex
-      wrap={"wrap"}
-      justify={"space-between"}
-      gap={"2rem"}
+    <SimpleGrid
+      spacing="md"
+      cols={{ base: 1, xs: 2, sm: 3, md: 4, lg: 5 }}
       className={classes.allBooks}
     >
       {books.map((book) => (
@@ -19,7 +18,7 @@ function RenderAllBooks({ books, deleteBook, fetchAllBooks }) {
           />
         </div>
       ))}
-    </Flex>
+    </SimpleGrid>
   );
 }
 
