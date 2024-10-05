@@ -8,7 +8,9 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "server": "pnpm json-server db/books.json"
+    "server": "pnpm json-server db/books.json",
+    "start": "pnpm serve -s -p 3001 ./dist",
+    "start:prod": "pnpm concurrently \"pnpm run server\" \"pnpm run start\""
   },
   "dependencies": {
     "@mantine/core": "^7.11.2",
@@ -24,6 +26,7 @@
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.3.1",
+    "concurrently": "^9.0.1",
     "eslint": "^8.57.0",
     "eslint-plugin-react": "^7.34.3",
     "eslint-plugin-react-hooks": "^4.6.2",
@@ -31,6 +34,7 @@
     "postcss": "^8.4.39",
     "postcss-preset-mantine": "^1.17.0",
     "postcss-simple-vars": "^7.0.1",
+    "serve": "^14.2.3",
     "vite": "^5.3.4"
   }
 }
