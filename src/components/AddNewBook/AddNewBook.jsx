@@ -22,7 +22,7 @@ function AddNewBook({ addNewBook }) {
           />
         </div>
         <div className={classes.imageContainer}>
-          <img src="/src/assets/file.png" className={classes.image} />
+          <img src="assets/file.png" className={classes.image} />
         </div>
       </Paper>
     </div>
