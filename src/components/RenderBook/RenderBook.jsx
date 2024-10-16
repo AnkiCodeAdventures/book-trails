@@ -54,7 +54,8 @@ function RenderBook({ book, deleteBook, fetchAllBooks }) {
         opened={opened}
         onClose={close}
         centered
-        size="40%"
+        title={book.bookName}
+        size="md"
         withCloseButton={false}
         styles={{
           body: { minHeight: "400px" },
