@@ -1,9 +1,5 @@
-.allBooks {
-  padding: 2rem;
-}
-
-@media (max-width: 490px) {
+@media (max-width: 950px) {
   .allBooks {
-    padding: 1rem;
+    margin-top: 1rem;
   }
 }

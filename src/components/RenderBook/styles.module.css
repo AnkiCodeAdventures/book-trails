@@ -91,9 +91,9 @@
   }
 }
 
-@media (max-width: 490px) {
+@media (max-width: 380px) {
   .paper {
-    width: 131px;
+    width: auto;
     padding: 6px;
   }
 }
