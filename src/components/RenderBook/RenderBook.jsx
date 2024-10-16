@@ -30,14 +30,14 @@ function RenderBook({ book, deleteBook, fetchAllBooks }) {
     <div>
       <Paper className={classes.paper} onClick={open}>
         <Image
-          src={book.cover_image_url}
+          src={book.coverImageUrl}
           alt="cover-image"
           className={classes.cover}
           fallbackSrc="assets/pexels-photo-8142723.webp"
         />
         <Text
           className={classes.caption}
-        >{`${book.book_name} by ${book.book_author}`}</Text>
+        >{`${book.bookName} by ${book.bookAuthor}`}</Text>
         <ActionIcon
           variant="transparent"
           aria-label="delete-action"
@@ -60,42 +60,7 @@ function RenderBook({ book, deleteBook, fetchAllBooks }) {
           body: { minHeight: "400px" },
         }}
       >
-        <Tabs
-          defaultValue="first-sentence"
-          styles={{
-            panel: {
-              padding: "1rem",
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-            },
-          }}
-        >
-          <Tabs.List>
-            <Tabs.Tab value="first-sentence">
-              <Text>Opening Lines</Text>
-            </Tabs.Tab>
-            <Tabs.Tab value="characters">
-              <Text>Beloved Characters</Text>
-            </Tabs.Tab>
-            <Tabs.Tab value="place">
-              <Text>Explore</Text>
-            </Tabs.Tab>
-          </Tabs.List>
-
-          <Tabs.Panel value="first-sentence">{book.first_sentence}</Tabs.Panel>
-          <Tabs.Panel value="characters" className={classes.list}>
-            {book.book_character.map((character) => {
-              return <Text key={book.id}>{character}</Text>;
-            })}
-          </Tabs.Panel>
-          <Tabs.Panel value="place" className={classes.list}>
-            {" "}
-            {book.book_place.map((place, index) => {
-              return <p key={index}>{place}</p>;
-            })}
-          </Tabs.Panel>
-        </Tabs>
+        <Text>{book.about}</Text>
       </Modal>
     </div>
   );

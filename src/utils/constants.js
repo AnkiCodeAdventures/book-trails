@@ -3,5 +3,5 @@ export const API_ENDPOINT =
 
 export const API_ROUTES = {
   BOOKS: `${API_ENDPOINT}books`,
-  OPEN_LIBRARY_SEARCH: "https://openlibrary.org/search.json",
+  GOOGLE_BOOKS_SEARCH: "https://www.googleapis.com/books/v1/volumes",
 };

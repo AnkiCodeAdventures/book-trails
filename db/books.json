@@ -1,77 +1,94 @@
 {
   "books": [
     {
-      "id": "eb2a",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Wonder",
-      "first_sentence": [
-        "Médicos vieram de cidades distantes só para me ver, parados ao lado da minha cama sem acreditar."
-      ],
-      "book_character": [
-        "August Pullman"
-      ],
-      "book_place": [
-        "Beecher Prep",
-        "New York",
-        "Manhattan",
-        "Manhattan (New York, N.Y.)",
-        "New York (State)"
-      ],
-      "book_author": [
-        "R. J. Palacio"
-      ],
-      "author_key": [
-        "OL6995566A"
-      ],
-      "cover_edition_key": 8223160,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/8223160-L.jpg"
+      "id": "63ac",
+      "userId": 1,
+      "userName": "Ankita",
+      "bookName": "The Book Thief",
+      "about": "#1 NEW YORK TIMES BESTSELLER • ONE OF TIME MAGAZINE’S 100 BEST YA BOOKS OF ALL TIME The extraordinary, beloved novel about the ability of books to feed the soul even in the darkest of times. When Death has a story to tell, you listen. It is 1939. Nazi Germany. The country is holding its breath. Death has never been busier, and will become busier still. Liesel Meminger is a foster girl living outside of Munich, who scratches out a meager existence for herself by stealing when she encounters something she can’t resist–books. With the help of her accordion-playing foster father, she learns to read and shares her stolen books with her neighbors during bombing raids as well as with the Jewish man hidden in her basement. In superbly crafted writing that burns with intensity, award-winning author Markus Zusak, author of I Am the Messenger, has given us one of the most enduring stories of our time. “The kind of book that can be life-changing.” —The New York Times “Deserves a place on the same shelf with The Diary of a Young Girl by Anne Frank.” —USA Today DON’T MISS BRIDGE OF CLAY, MARKUS ZUSAK’S FIRST NOVEL SINCE THE BOOK THIEF.",
+      "bookAuthor": "Markus Zusak",
+      "coverImageUrl": "http://books.google.com/books/content?id=veGXULZK6UAC&printsec=frontcover&img=1&zoom=1&source=gbs_api&fife=w800"
     },
     {
-      "id": "1e61",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "Love among the Bookshelves",
-      "book_character": [],
-      "book_place": [],
-      "book_author": [
-        "Ruskin Bond"
-      ],
-      "author_key": [
-        "OL9961676A"
-      ],
-      "cover_edition_key": 14580762,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/14580762-L.jpg"
+      "id": "dbeb",
+      "userId": 1,
+      "userName": "Ankita",
+      "bookName": "The Alchemist",
+      "about": "A special 25th anniversary edition of the extraordinary international bestseller, including a new Foreword by Paulo Coelho. Combining magic, mysticism, wisdom and wonder into an inspiring tale of self-discovery, The Alchemist has become a modern classic, selling millions of copies around the world and transforming the lives of countless readers across generations. Paulo Coelho's masterpiece tells the mystical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure. His quest will lead him to riches far different—and far more satisfying—than he ever imagined. Santiago's journey teaches us about the essential wisdom of listening to our hearts, of recognizing opportunity and learning to read the omens strewn along life's path, and, most importantly, to follow our dreams.",
+      "bookAuthor": "Paulo Coelho",
+      "coverImageUrl": "http://books.google.com/books/content?id=FzVjBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&fife=w800"
     },
     {
-      "id": "ff44",
-      "user_id": 1,
-      "user_name": "Ankita",
-      "book_name": "The Alchemist",
-      "first_sentence": [
-        "El muchacho se llamaba Santiago."
-      ],
-      "book_character": [
-        "Paulo Coelho",
-        "Daniel Sampere",
-        "Derek Ruiz",
-        "Sea Lion Books",
-        "HarperCollins"
-      ],
-      "book_place": [
-        "Spain",
-        "Saara Desert",
-        "Andalusia",
-        "Andalusia (Spain)"
-      ],
-      "book_author": [
-        "Paulo Coelho"
-      ],
-      "author_key": [
-        "OL66700A"
-      ],
-      "cover_edition_key": 48240,
-      "cover_image_url": "https://covers.openlibrary.org/b/ID/48240-L.jpg"
+      "id": "0263",
+      "userId": 1,
+      "userName": "Ankita",
+      "bookName": "The Girl with the Dragon Tattoo",
+      "about": "“The Girl with the Dragon Tattoo is a striking novel. Just when I was thinking there wasn't anything new on the horizon, along comes Stieg Larsson with this wonderfully unique story. I was completely absorbed.” —Michael Connelly \"I doubt you will read a better book this year.” —Val McDermid Forty years ago, Harriet Vanger disappeared off the secluded island owned and inhabited by the powerful Vanger family. There was no corpse, no witnesses, no evidence. But her uncle, Henrik, is convinced that she was murdered by someone from her own deeply dysfunctional family. Disgraced journalist Mikael Blomkvist is hired to investigate, but he quickly finds himself in over his head. He hires a competent assistant: the gifted and conscience-free computer specialist Lisbeth Salander, and the two unravel a dark and appalling family history. But the Vangers are a secretive clan, and Blomkvist and Salander are about to find out just how far they are prepared to go to protect themselves.",
+      "bookAuthor": "Stieg Larsson",
+      "coverImageUrl": "http://books.google.com/books/content?id=qYcJVplnx5cC&printsec=frontcover&img=1&zoom=1&source=gbs_api&fife=w800"
+    },
+    {
+      "id": "6034",
+      "userId": 1,
+      "userName": "Ankita",
+      "bookName": "The Three Musketeers",
+      "about": "“All for one, one for all!”--Alexandre Dumas, The Three Musketeers The Three Musketeers, by French writer Alexandre Dumas, was first released in serial form in 1844, a year before Dumas’ publication of The Count of Monte Cristo. The story was an instant success, largely due to Dumas’ transformation of the historical fiction genre. In The Three Musketeers, contrary to popular practice at the time, history acted as a backdrop for the story rather than the primary element, making it a fun and accessible read. The story follows young d’Artagnan and his friends Athos, Porthos, and Aramis as they defend honor amidst the power struggles of 17th century France. Still popular with readers today, this classic is now available in a chic and affordable edition as part of the Word Cloud Classics series from Canterbury Classics.",
+      "bookAuthor": "Alexandre Dumas",
+      "coverImageUrl": "http://books.google.com/books/content?id=LipZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&fife=w800"
+    },
+    {
+      "id": "564b",
+      "userId": 1,
+      "userName": "Ankita",
+      "bookName": "Eleanor Oliphant is Completely Fine",
+      "about": "Over 2.5 million copies sold ‘Funny, touching and unpredictable’ Jojo Moyes ‘Heartwrenching and wonderful’ Nina Stibbe Winner of Costa First Novel Award, a No.1 Sunday Times bestseller and the Book of the Year",
+      "bookAuthor": "Gail Honeyman",
+      "coverImageUrl": "http://books.google.com/books/content?id=1AlIDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&fife=w800"
+    },
+    {
+      "id": "8efe",
+      "userId": 1,
+      "userName": "Ankita",
+      "bookName": "The Book of Life",
+      "about": "Inspired By Krishnamurti S Belief That Truth Is Found Through Living, The Book Of Life Presents 365 Timeless Daily Meditations, Developed Thematically Over Seven Days, Illuminating The Concepts Of Freedom, Personal Transformation, Living Fully Awake And Much More. For Everyone Who Has Come To Cherish The Wisdom Of This Extraordinary Spiritual Sage As Well As Anyone Discovering Krishnamurti For The First Time The Book Of Life Is A Profound Collection Of Insights To Treasure Everyday. The Story Of Mankind Is In You, The Vast Experience, The Deep-Rooted Fears, Anxieties, Sorrow, Pleasure And All The Beliefs That Man Has Accommodated Throughout The Millennia. You Are That Book. J. Krishnamurti",
+      "bookAuthor": "J Krishnamurti",
+      "coverImageUrl": "http://books.google.com/books/content?id=lLMa6isBtk8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&fife=w800"
+    },
+    {
+      "id": "45a6",
+      "userId": 1,
+      "userName": "Ankita",
+      "bookName": "The Practicing Mind",
+      "about": "In those times when we want to acquire a new skill or face a formidable challenge we hope to overcome, what we need most are patience, focus, and discipline, traits that seem elusive or difficult to maintain. In this enticing and practical book, Thomas Sterner demonstrates how to learn skills for any aspect of life, from golfing to business to parenting, by learning to love the process. Early life is all about trial-and-error practice. If we had given up in the face of failure, repetition, and difficulty, we would never have learned to walk or tie our shoes. So why, as adults, do we often give up on a goal when at first we don’t succeed? Modern life’s technological speed, habitual multitasking, and promises of instant gratification don’t help. But in his study of how we learn (prompted by his pursuit of disciplines such as music and golf), Sterner has found that we have also forgotten the principles of practice — the process of picking a goal and applying steady effort to reach it. The methods Sterner teaches show that practice done properly isn’t drudgery on the way to mastery but a fulfilling process in and of itself, one that builds discipline and clarity. By focusing on “process, not product,” you’ll learn to live in each moment, where you’ll find calmness and equanimity. This book will transform a sense of futility around learning something challenging into an attitude of pleasure and willingness.",
+      "bookAuthor": "Thomas M. Sterner",
+      "coverImageUrl": "http://books.google.com/books/content?id=JEk90yyDVc8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&fife=w800"
+    },
+    {
+      "id": "20b2",
+      "userId": 1,
+      "userName": "Ankita",
+      "bookName": "The Way of the Empath",
+      "about": "A guide for every empath and spiritually sensitive soul to explore their abilities with exercises, affirmations, and creative journaling, as well as methods to protect themselves. Are you an empath looking to better understand yourself and your place in the Universe? To be an empath is an art form—to discover how our perceptions guide and inform us, shape us, and at times limit us, requires extraordinary awareness. It also requires the skills and the strength of a lion because it takes real courage to be empathic. The good news is that there are ways to protect yourself while living with an open heart and this book shows you how to use creative visualization for that purpose. The Way of the Empath explores ways to understand empathy and how to use mystical, spiritual, and imaginative insight to better understand our place in the universe. You'll learn how to see the unseen and welcome the mysteries of life through psychic events and fun encounters. With a guiding hand, The Way of the Empath covers how to: Put yourself in a state of receiving Take note of synchronistic events and signs Protect yourself Change your perceptions of reality Access intuitive knowing through creative drawing and journaling This book will allow you to experience synchronicity and serendipity while living with great zeal and mirth—the sign of true heart-centered intelligence!",
+      "bookAuthor": "Elaine Clayton",
+      "coverImageUrl": "http://books.google.com/books/content?id=6-hBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&fife=w800"
+    },
+    {
+      "id": "29b9",
+      "userId": 1,
+      "userName": "Ankita",
+      "bookName": "Everything is Figureoutable",
+      "about": "***INSTANT #1 NEW YORK TIMES BESTSELLER 2019*** 'Fast-paced, generous, wise, raw, funny, practical and helpful' Glennon Doyle, author of Untamed 'Millions of young women look to Marie Forleo as their inspiration for empowerment and achievement' Oprah Winfrey 'Reading these pages I experienced the sensation of limitless possibility. This book will change lives' Elizabeth Gilbert Do you ever have trouble finishing what you start? Do amazing ideas come to you all the time but after the initial excitement wanes you struggle to follow through? If you're creative and ambitious, the answer is likely yes. The problem isn't you. It's not that you're not hardworking, intelligent or deserving, but that you haven't yet installed the one key belief that will change everything: Everything is figureoutable. Whether you want to leave a dead-end job, heal a relationship, grow a business, master your money, or just find two free hours in your day, Everything is Figureoutable will train your brain to think more positively and help you break down any dream into manageable steps. Inside you'll learn: - How to deal with criticism and imposter syndrome - Why it's crucial that you strive for progress not perfection - How to bounce back from failure - How to overcome a lack of time and money You'll also hear triumphant stories of everyday people using the everything is figureoutable philosophy to transform their life. Everything is figureoutable is more than just a fun phrase to say. It's a practical, actionable discipline. And it's about to make you unstoppable! 'Smart, funny, and as brilliant as it is straightforward. LOVED it!' Brené Brown 'This book delivers a knockout punch to whatever is holding you back' Cheryl Strayed",
+      "bookAuthor": "Marie Forleo",
+      "coverImageUrl": "http://books.google.com/books/content?id=00iFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&fife=w800"
+    },
+    {
+      "id": "0a8e",
+      "userId": 1,
+      "userName": "Ankita",
+      "bookName": "A Thousand Splendid Suns",
+      "about": "Mariam is only fifteen when she is sent to Kabul to marry Rasheed. Nearly two decades later, a friendship grows between Mariam and a local teenager, Laila, as strong as the ties between mother and daughter. When the Taliban take over, life becomes a desperate struggle against starvation, brutality and fear. Yet love can move a person to act in unexpected ways, and lead them to overcome the most daunting obstacles with a startling heroism.",
+      "bookAuthor": "Khaled Hosseini",
+      "coverImageUrl": "http://books.google.com/books/content?id=k7hIAw5WmmwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&fife=w800"
     }
   ]
 }
