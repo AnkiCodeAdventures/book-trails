@@ -6,7 +6,7 @@ function RenderAllBooks({ books, deleteBook, fetchAllBooks }) {
   return (
     <SimpleGrid
       spacing="md"
-      cols={{ base: 1, xs: 2, sm: 3, md: 4, lg: 5 }}
+      cols={{ base: 2, xs: 2, sm: 3, md: 4, lg: 5 }}
       className={classes.allBooks}
     >
       {books.map((book) => (

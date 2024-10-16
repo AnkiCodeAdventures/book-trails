@@ -1,4 +1,4 @@
-import { ActionIcon, Image, Modal, Paper, Tabs, Text } from "@mantine/core";
+import { ActionIcon, Image, Modal, Paper, Text } from "@mantine/core";
 import classes from "./styles.module.css";
 import { useDisclosure } from "@mantine/hooks";
 import { IconTrashFilled } from "@tabler/icons-react";

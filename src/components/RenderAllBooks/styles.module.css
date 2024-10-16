@@ -1,3 +1,9 @@
 .allBooks {
   padding: 2rem;
 }
+
+@media (max-width: 490px) {
+  .allBooks {
+    padding: 1rem;
+  }
+}
